@@ -1,0 +1,14 @@
+USERS/topic_sample_.txt
+jul2116 Oct11'16-10:27:17 0 0 |
+1 0 0 DY 0 24 24 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+#pending
+#`end topics
+$cs_login=Sample
+$cs_randindex=1938
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+#`end user
+#`end chatbot

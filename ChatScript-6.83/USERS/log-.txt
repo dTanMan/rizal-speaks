@@ -1,0 +1,69 @@
+﻿
+No such bot  :build Pepe -  -  status: harry   in topic__build pepe.txt at 1: ^build pepe
+    Respond: user: bot:harry ip: (~introductions) 1   a ==> Hello, talk to me!  When:Oct02'16-15:50:53 Why:~introductions.0.0.~control.9.0   F:0 
+Command: :reset
+Start: user: bot:harry ip: rand:0 (~introductions) 0 ==> Hello, talk to me!  When:Oct02'16-15:51:01 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Oct02'16-15:50:13 0:Oct02'16-15:50:53 F:0 P:Oct02'16-15:50:53 Why:~introductions.0.0.~control.0.0 
+Start: user: bot:pepe ip: rand:0 (~introductions) 0 ==> Welcome to ChatScript.  When:Oct02'16-19:33:48 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Oct02'16-18:18:59 0:Oct02'16-19:33:48 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user: bot:pepe ip: (~introductions) 1   . ==> Have you been here before?  When:Oct02'16-19:33:49 Why:~introductions.2.0.~control.9.0   F:0 
+Start: user: bot:pepe ip: rand:2 (~introductions) 1 ==> Hi, again.  When:Oct03'16-11:16:45 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Oct03'16-03:46:38 0:Oct02'16-19:33:48 F:0 P:Oct02'16-19:33:49 Why:~introductions.0.0.~control.0.0 
+Command: :restart aly
+Start: user: bot:pepe ip: rand:2 (~introductions) 1 ==> Hi, again.  When:Oct03'16-11:16:54 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Oct03'16-03:46:38 0:Oct02'16-19:33:48 F:0 P:Oct02'16-19:33:49 Why:~introductions.0.0.~control.0.0 
+
+No such bot  :build Pepe -  -  status: defaultbot word not found   in topic__build pepe.txt at 1: ^build pepe
+    
+No such bot   -  - a status: defaultbot word not found   in topic__anonymous.txt at 1: ^anonymous
+    Command: :build Pepe
+Start: user: bot:pepe ip: rand:2 (~introductions) 1 ==> Hi, again.  When:Nov19'16-02:01:36 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Nov19'16-02:01:32 0:Oct02'16-19:33:48 F:0 P:Oct02'16-19:33:49 Why:~introductions.0.0.~control.0.0 
+Respond: user: bot:pepe ip: (~introductions) 2   reset ==> Have you talked to me before?  When:Nov19'16-02:01:39 Why:~introductions.2.0.~control.9.0   F:16 
+Command: :reset
+Start: user: bot:pepe ip: rand:1 (~introductions) 0 ==> Welcome!  When:Nov19'16-02:01:41 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Nov19'16-02:01:32 0:Oct02'16-19:33:48 F:0 P:Nov19'16-02:01:39 Why:~introductions.1.0.~control.0.0 
+Start: user: bot:pepe ip: rand:1 (~introductions) 0 ==> Welcome!  When:Nov20'16-15:25:54 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Nov20'16-15:24:02 0:Oct02'16-19:33:48 F:0 P:Nov19'16-02:01:39 Why:~introductions.1.0.~control.0.0 
+Start: user: bot:reset ip: rand:0 () 0 ==>   When:Nov20'16-16:54:51 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Nov20'16-16:03:31 0:Nov20'16-16:54:51 F:0 P:0 
+Respond: user: bot:reset ip: () 1   andre ==>   When:Nov20'16-16:54:53   F:0 
+Command: :reset
+Start: user: bot:reset ip: rand:0 () 0 ==>   When:Nov20'16-16:54:55 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Nov20'16-16:03:31 0:Nov20'16-16:54:51 F:0 P:Nov20'16-16:54:53 
+Respond: user: bot:reset ip: () 1   andre ==>   When:Nov20'16-16:54:57   F:0 
+Respond: user: bot:reset ip: () 2   .. ==>   When:Nov20'16-16:54:58   F:0 
+Command: :build Pepe
+Start: user: bot:pepe ip: rand:1 (~introductions) 0 ==> Welcome!  When:Nov20'16-16:55:06 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Nov20'16-16:55:02 0:Oct02'16-19:33:48 F:0 P:Nov19'16-02:01:39 Why:~introductions.1.0.~control.0.0 
+Start: user: bot:pepe ip: rand:1 (~introductions) 0 ==> Welcome!  When:Nov21'16-16:43:14 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Nov21'16-01:54:11 0:Oct02'16-19:33:48 F:0 P:Nov19'16-02:01:39 Why:~introductions.1.0.~control.0.0 
+Respond: user: bot:pepe ip: (~introductions) 1   name ==> Have you talked to me before?  When:Nov21'16-16:43:21 Why:~introductions.2.0.~control.9.0   F:0 
+Respond: user: bot:pepe ip: (~introductions) 2   no ==> Well, it's nice to meet you,!  When:Nov21'16-16:43:22 Why:~introductions.2.1   F:0 
+Respond: user: bot:pepe ip: (~introductions) 3   no ==> How are you today?  When:Nov21'16-16:43:24 Why:~introductions.3.0.~control.9.0   F:0 
+Respond: user: bot:pepe ip: (~introductions) 4   no ==> That's sad. My day was sad too... But you know what?  When:Nov21'16-16:43:26 Why:~introductions.3.1   F:0 
+Respond: user: bot:pepe ip: (~introductions) 5   no ==> My day's better now that you have come along!  When:Nov21'16-16:43:28 Why:~introductions.3.2   F:0 
+Respond: user: bot:pepe ip: (~introductions) 6   no ==> So are you here to chat?  When:Nov21'16-16:43:29 Why:~introductions.4.0.~control.9.0   F:0 
+Respond: user: bot:pepe ip: (~home) 7   he is ==> Great! You know....`We had a big, big house! Too bad I can't take you there right now.  When:Nov21'16-16:43:34 Why:~introductions.4.2 ~home.0.0.~introductions.4.2   F:0 
+Command: :reset
+Start: user: bot:pepe ip: rand:1 (~introductions) 0 ==> Welcome!  When:Nov21'16-16:51:55 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Nov21'16-01:54:11 0:Oct02'16-19:33:48 F:0 P:Nov21'16-16:43:34 Why:~introductions.1.0.~control.0.0 
+Command: :testpattern ( <<who that>> ) who is that
+( 
+.<< who+ that+ >>+
+.)+
+ Matched
+
+Command: :testpattern ( <<who that>> ) potato
+( 
+.<< who- ...>>-
+.        Remaining pattern: )
+ Failed
+    Adjusted Input: potato 
+    Canonical Input: potato 
+Command: :testpattern ( <<who that>> ) who is that
+( 
+.<< who+ that+ >>+
+.)+
+ Matched
+
+Command: :testpattern ( <<who that>> ) tell me who that is 
+( 
+.<< who+ that+ >>+
+.)+
+ Matched
+
+Command: :testpattern ( <<who that>> ) that is who?
+( 
+.<< who+ that+ >>+
+.)+
+ Matched
+

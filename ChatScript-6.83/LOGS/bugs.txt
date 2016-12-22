@@ -1,0 +1,158 @@
+﻿***127.0.0.1 client presocket failed Oct 02 14:14:19 2016
+***127.0.0.1 client presocket failed Oct 02 14:14:24 2016
+***127.0.0.1 client presocket failed Oct 02 14:14:28 2016
+***127.0.0.1 client presocket failed Oct 02 14:14:35 2016
+***127.0.0.1 client presocket failed Oct 02 14:15:16 2016
+BUG in topic_andre_anonymous.txt at 0: ^anonymous BUG: Sun Oct 02 15:34:49 2016: input:0 Sun Oct 02 15:34:49 2016 No such bot  andre -  - l  status: defaultbot word not found caller:andre callee: at  in sentence: a 
+No such bot  andre -  - l  status: defaultbot word not foundBUG in topic_andre_anonymous.txt at 0: ^anonymous BUG: Sun Oct 02 15:35:42 2016: input:0 Sun Oct 02 15:35:42 2016 No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence: a 
+No such bot  andre -  -  status: defaultbot word not foundBUG in tutorial.top at 6: ?: What is your name? 
+RULE-3 Missing pattern for responderBUG in topic_andre_anonymous.txt at 0: ^anonymous BUG: Sun Oct 02 15:38:12 2016: input:0 Sun Oct 02 15:38:12 2016 No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence:  
+No such bot  andre -  -  status: defaultbot word not foundBUG in tutorial.top at 6: ?: What is your name? 
+RULE-3 Missing pattern for responderBUG in topic_andre_anonymous.txt at 0: ^anonymous BUG: Sun Oct 02 15:38:26 2016: input:0 Sun Oct 02 15:38:26 2016 No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence:  
+No such bot  andre -  -  status: defaultbot word not foundBUG in topic_andre_anonymous.txt at 0: ^anonymous BUG: Sun Oct 02 15:38:28 2016: input:0 Sun Oct 02 15:38:28 2016 No such bot  andre -  - hello  status: defaultbot word not found caller:andre callee: at  in sentence:  
+No such bot  andre -  - hello  status: defaultbot word not foundBUG in tutorial.top at 6: ?: What is your name? 
+RULE-3 Missing pattern for responderBUG in topic_andre_anonymous.txt at 0: ^anonymous BUG: Sun Oct 02 15:38:36 2016: input:0 Sun Oct 02 15:38:36 2016 No such bot  andre -  - hello!  status: defaultbot word not found caller:andre callee: at  in sentence:  
+No such bot  andre -  - hello!  status: defaultbot word not foundBUG in tutorial.top at 6: ?: What is your name? 
+RULE-3 Missing pattern for responderBUG in topic_andre_anonymous.txt at 0: ^anonymous BUG: Sun Oct 02 15:38:58 2016: input:0 Sun Oct 02 15:38:58 2016 No such bot  andre -  - hi  status: defaultbot word not found caller:andre callee: at  in sentence:  
+No such bot  andre -  - hi  status: defaultbot word not foundBUG in topic_andre_anonymous.txt at 0: ^anonymous BUG: Sun Oct 02 15:38:58 2016: input:0 Sun Oct 02 15:38:58 2016 No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence:  
+No such bot  andre -  -  status: defaultbot word not foundBUG in topic_andre_anonymous.txt at 0: ^anonymous BUG: Sun Oct 02 15:38:59 2016: input:0 Sun Oct 02 15:38:59 2016 No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence:  
+No such bot  andre -  -  status: defaultbot word not foundBUG in topic_andre_anonymous.txt at 0: ^anonymous BUG: Sun Oct 02 15:38:59 2016: input:0 Sun Oct 02 15:38:59 2016 No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence:  
+No such bot  andre -  -  status: defaultbot word not foundBUG in topic_andre_anonymous.txt at 0: ^anonymous BUG: Sun Oct 02 15:38:59 2016: input:0 Sun Oct 02 15:38:59 2016 No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence:  
+No such bot  andre -  -  status: defaultbot word not foundBUG in topic_andre_anonymous.txt at 0: ^anonymous BUG: Sun Oct 02 15:38:59 2016: input:0 Sun Oct 02 15:38:59 2016 No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence:  
+No such bot  andre -  -  status: defaultbot word not foundBUG in topic_andre_anonymous.txt at 0: ^anonymous BUG: Sun Oct 02 15:39:00 2016: input:0 Sun Oct 02 15:39:00 2016 No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence:  
+No such bot  andre -  -  status: defaultbot word not foundBUG in topic_andre_anonymous.txt at 0: ^anonymous BUG: Sun Oct 02 15:39:04 2016: input:0 Sun Oct 02 15:39:04 2016 No such bot  andre -  - why  status: defaultbot word not found caller:andre callee: at  in sentence:  
+No such bot  andre -  - why  status: defaultbot word not foundBUG in tutorial.top at 6: ?: What is your name? 
+RULE-3 Missing pattern for responderBUG in topic_andre_anonymous.txt at 0: ^anonymous No such bot  andre -  - hi  status: defaultbot word not foundBUG in topic_andre_anonymous.txt at 0: ^anonymous No such bot  andre -  -  status: defaultbot word not foundBUG in topic_andre_anonymous.txt at 0: ^anonymous No such bot  andre -  -  status: defaultbot word not foundBUG in topic_andre_anonymous.txt at 1: ^anonymous No such bot  andre -  -  status: defaultbot word not foundBUG in tutorial.top at 6: ?: What is your name? 
+RULE-3 Missing pattern for responderBUG in topic_andre_anonymous.txt at 0: ^anonymous No such bot  andre -  - hello  status: defaultbot word not foundBUG in tutorial.top at 6: ?: What is your name? 
+RULE-3 Missing pattern for responderBUG in topic_andre_anonymous.txt at 0: ^anonymous No such bot  andre -  -  status: defaultbot word not foundBUG in tutorial.top at 6: ?: What is your name? 
+RULE-3 Missing pattern for responderBUG in topic_andre_anonymous.txt at 0: ^anonymous BUG: Sun Oct 02 15:45:25 2016: input:0 Sun Oct 02 15:45:25 2016 No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence: hi
+No such bot  andre -  -  status: defaultbot word not foundBUG in topic__build pepe.txt at 1: ^build pepe 
+No such bot  :build Pepe -  -  status: harryBUG in introductions.top at 21: u: ( what is your name ) My name is Pepe. 
+BODY-1 Fail to close code started with How are you { doing } { today } ? #! what is your  upon seeing u:BUG in topic_andre_anonymous.txt at 0: ^anonymous BUG: Sun Oct 02 18:16:29 2016: input:0 Sun Oct 02 18:16:29 2016 No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence: yes
+No such bot  andre -  -  status: defaultbot word not foundBUG in introductions.top at 21: u: ( what is your name ) My name is Pepe. 
+BODY-1 Fail to close code started with How are you { doing } { today } ? #! what is your  upon seeing u:BUG in topic_andre_anonymous.txt at 0: ^anonymous BUG: Sun Oct 02 18:16:46 2016: input:0 Sun Oct 02 18:16:46 2016 No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence: yes
+No such bot  andre -  -  status: defaultbot word not foundBUG in topic_andre_anonymous.txt at 1: ^anonymous BUG: Sun Oct 02 18:16:53 2016: input:0 Sun Oct 02 18:16:53 2016 
+No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence: yes
+
+No such bot  andre -  -  status: defaultbot word not foundBUG in topic_andre_anonymous.txt at 1: ^anonymous BUG: Sun Oct 02 18:16:56 2016: input:0 Sun Oct 02 18:16:56 2016 
+No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence: yes
+
+No such bot  andre -  -  status: defaultbot word not foundBUG in topic_andre_anonymous.txt at 1: ^anonymous BUG: Sun Oct 02 18:16:56 2016: input:0 Sun Oct 02 18:16:56 2016 
+No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence: yes
+
+No such bot  andre -  -  status: defaultbot word not foundBUG in introductions.top at 20:  a: (not *_1 [good well okay great]) that's sad 
+PATTERN-55 * jammed against some other token- *_1BUG in topic_andre_anonymous.txt at 0: ^anonymous BUG: Sun Oct 02 22:18:06 2016: input:0 Sun Oct 02 22:18:06 2016 No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence: not aaa okay
+No such bot  andre -  -  status: defaultbot word not foundBUG in introductions.top at 22: a: ( (not * [~feeling_sad ~badness ~no] ) [~feeling_happy ~goodness ~yes] ]) That's great to hear! 
+PATTERN-34 ] is not closing corresponding [BUG in topic_andre_anonymous.txt at 0: ^anonymous BUG: Mon Oct 03 00:03:54 2016: input:0 Mon Oct 03 00:03:54 2016 No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence: not bad
+No such bot  andre -  -  status: defaultbot word not foundBUG in introductions.top at 8: #!x will match on every return start of a conversation 
+FILE-1 Unknown top-level declaration #!x in RAWDATA/Pepe/introductions.topBUG in introductions.top at 9: t: ( %input<%userfirstline %input>0 ) 
+FILE-1 Unknown top-level declaration t: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 14: t: ( %input<%userfirstline ) 
+FILE-1 Unknown top-level declaration t: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 19: t: Have you been here before? 
+FILE-1 Unknown top-level declaration t: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 23: t: How are you [doing][today]? 
+FILE-1 Unknown top-level declaration t: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 30: u: ([what "tell me"] * your name) My name is Pepe. 
+FILE-1 Unknown top-level declaration u: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 32: u: (how are you) POTATOEZ ARE DELICIOUS 
+FILE-1 Unknown top-level declaration u: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 35: u: ([what "tell me"] * your nickname) Pepe's my nickname! 
+FILE-1 Unknown top-level declaration u: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 38: u: ([what "tell me"] * your full name) My full name is Jose Protacio Rizal Mercado y Alonso Realonda! That was a mouthful. Happy? 
+FILE-1 Unknown top-level declaration u: in RAWDATA/Pepe/introductions.topBUG in topic_andre_anonymous.txt at 0: ^anonymous BUG: Mon Oct 03 00:15:38 2016: input:0 Mon Oct 03 00:15:38 2016 No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence: bad
+No such bot  andre -  -  status: defaultbot word not foundBUG in topic_andre_anonymous.txt at 1: ^anonymous BUG: Mon Oct 03 00:15:38 2016: input:0 Mon Oct 03 00:15:38 2016 
+No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence: bad
+
+No such bot  andre -  -  status: defaultbot word not foundBUG in introductions.top at 6: ~doing_bad [~feeling_sad ~badness ~no] 
+FILE-1 Unknown top-level declaration ~doing_bad in RAWDATA/Pepe/introductions.topBUG in introductions.top at 9: t: ( %input<%userfirstline %input>0 ) 
+FILE-1 Unknown top-level declaration t: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 14: t: ( %input<%userfirstline ) 
+FILE-1 Unknown top-level declaration t: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 19: t: Have you been here before? 
+FILE-1 Unknown top-level declaration t: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 23: t: How are you [doing][today]? 
+FILE-1 Unknown top-level declaration t: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 30: u: ([what "tell me"] * your name) My name is Pepe. 
+FILE-1 Unknown top-level declaration u: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 32: u: (how are you) POTATOEZ ARE DELICIOUS 
+FILE-1 Unknown top-level declaration u: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 35: u: ([what "tell me"] * your nickname) Pepe's my nickname! 
+FILE-1 Unknown top-level declaration u: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 38: u: ([what "tell me"] * your full name) My full name is Jose Protacio Rizal Mercado y Alonso Realonda! That was a mouthful. Happy? 
+FILE-1 Unknown top-level declaration u: in RAWDATA/Pepe/introductions.topBUG in topic_andre_anonymous.txt at 0: ^anonymous BUG: Mon Oct 03 00:16:49 2016: input:0 Mon Oct 03 00:16:49 2016 No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence: bad
+No such bot  andre -  -  status: defaultbot word not foundBUG in topic_andre_anonymous.txt at 1: ^anonymous BUG: Mon Oct 03 00:16:49 2016: input:0 Mon Oct 03 00:16:49 2016 
+No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence: bad
+
+No such bot  andre -  -  status: defaultbot word not foundBUG in topic_andre_anonymous.txt at 1: ^anonymous BUG: Mon Oct 03 00:16:49 2016: input:0 Mon Oct 03 00:16:49 2016 
+No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence: bad
+
+No such bot  andre -  -  status: defaultbot word not foundBUG in topic_andre_anonymous.txt at 1: ^anonymous BUG: Mon Oct 03 00:16:49 2016: input:0 Mon Oct 03 00:16:49 2016 
+No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence: bad
+
+No such bot  andre -  -  status: defaultbot word not foundBUG in introductions.top at 7: #!x will match on every return start of a conversation 
+FILE-1 Unknown top-level declaration #!x in RAWDATA/Pepe/introductions.topBUG in introductions.top at 8: t: ( %input<%userfirstline %input>0 ) 
+FILE-1 Unknown top-level declaration t: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 13: t: ( %input<%userfirstline ) 
+FILE-1 Unknown top-level declaration t: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 18: t: Have you been here before? 
+FILE-1 Unknown top-level declaration t: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 22: t: How are you [doing][today]? 
+FILE-1 Unknown top-level declaration t: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 29: u: ([what "tell me"] * your name) My name is Pepe. 
+FILE-1 Unknown top-level declaration u: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 31: u: (how are you) POTATOEZ ARE DELICIOUS 
+FILE-1 Unknown top-level declaration u: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 34: u: ([what "tell me"] * your nickname) Pepe's my nickname! 
+FILE-1 Unknown top-level declaration u: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 37: u: ([what "tell me"] * your full name) My full name is Jose Protacio Rizal Mercado y Alonso Realonda! That was a mouthful. Happy? 
+FILE-1 Unknown top-level declaration u: in RAWDATA/Pepe/introductions.topBUG in topic_andre_anonymous.txt at 0: ^anonymous BUG: Mon Oct 03 00:18:38 2016: input:0 Mon Oct 03 00:18:38 2016 No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence: bad
+No such bot  andre -  -  status: defaultbot word not foundBUG in introductions.top at 7: #!x will match on every return start of a conversation 
+FILE-1 Unknown top-level declaration #!x in RAWDATA/Pepe/introductions.topBUG in introductions.top at 8: t: ( %input<%userfirstline %input>0 ) 
+FILE-1 Unknown top-level declaration t: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 13: t: ( %input<%userfirstline ) 
+FILE-1 Unknown top-level declaration t: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 18: t: Have you been here before? 
+FILE-1 Unknown top-level declaration t: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 22: t: How are you [doing][today]? 
+FILE-1 Unknown top-level declaration t: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 29: u: ([what "tell me"] * your name) My name is Pepe. 
+FILE-1 Unknown top-level declaration u: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 31: u: (how are you) POTATOEZ ARE DELICIOUS 
+FILE-1 Unknown top-level declaration u: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 34: u: ([what "tell me"] * your nickname) Pepe's my nickname! 
+FILE-1 Unknown top-level declaration u: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 37: u: ([what "tell me"] * your full name) My full name is Jose Protacio Rizal Mercado y Alonso Realonda! That was a mouthful. Happy? 
+FILE-1 Unknown top-level declaration u: in RAWDATA/Pepe/introductions.topBUG in topic_andre_anonymous.txt at 0: ^anonymous BUG: Mon Oct 03 00:19:00 2016: input:0 Mon Oct 03 00:19:00 2016 No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence: bad
+No such bot  andre -  -  status: defaultbot word not foundBUG in introductions.top at 5: #!x will match on every return start of a conversation 
+FILE-1 Unknown top-level declaration #!x in RAWDATA/Pepe/introductions.topBUG in introductions.top at 6: t: ( %input<%userfirstline %input>0 ) 
+FILE-1 Unknown top-level declaration t: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 11: t: ( %input<%userfirstline ) 
+FILE-1 Unknown top-level declaration t: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 16: t: Have you been here before? 
+FILE-1 Unknown top-level declaration t: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 20: t: How are you [doing][today]? 
+FILE-1 Unknown top-level declaration t: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 27: u: ([what "tell me"] * your name) My name is Pepe. 
+FILE-1 Unknown top-level declaration u: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 29: u: (how are you) POTATOEZ ARE DELICIOUS 
+FILE-1 Unknown top-level declaration u: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 32: u: ([what "tell me"] * your nickname) Pepe's my nickname! 
+FILE-1 Unknown top-level declaration u: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 35: u: ([what "tell me"] * your full name) My full name is Jose Protacio Rizal Mercado y Alonso Realonda! That was a mouthful. Happy? 
+FILE-1 Unknown top-level declaration u: in RAWDATA/Pepe/introductions.topBUG in topic_andre_anonymous.txt at 0: ^anonymous BUG: Mon Oct 03 00:22:51 2016: input:0 Mon Oct 03 00:22:51 2016 No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence: bad
+No such bot  andre -  -  status: defaultbot word not foundBUG in introductions.top at 3: (concept: ~doing_good [~feeling_happy ~goodness ~yes]) 
+Display argument must be uservar of $$ $ or $_: concept:BUG in topic_andre_anonymous.txt at 0: ^anonymous BUG: Mon Oct 03 00:23:50 2016: input:0 Mon Oct 03 00:23:50 2016 No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence: bad
+No such bot  andre -  -  status: defaultbot word not foundBUG in introductions.top at 3: concept: ~doing_good ([~feeling_happy ~goodness ~yes]) 
+CONCEPT-5 Cannot use [ or ( within a keyword list for ~doing_goodBUG in introductions.top at 6: t: ( %input<%userfirstline %input>0 ) 
+FILE-1 Unknown top-level declaration t: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 11: t: ( %input<%userfirstline ) 
+FILE-1 Unknown top-level declaration t: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 16: t: Have you been here before? 
+FILE-1 Unknown top-level declaration t: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 20: t: How are you [doing][today]? 
+FILE-1 Unknown top-level declaration t: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 27: u: ([what "tell me"] * your name) My name is Pepe. 
+FILE-1 Unknown top-level declaration u: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 29: u: (how are you) POTATOEZ ARE DELICIOUS 
+FILE-1 Unknown top-level declaration u: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 32: u: ([what "tell me"] * your nickname) Pepe's my nickname! 
+FILE-1 Unknown top-level declaration u: in RAWDATA/Pepe/introductions.topBUG in introductions.top at 35: u: ([what "tell me"] * your full name) My full name is Jose Protacio Rizal Mercado y Alonso Realonda! That was a mouthful. Happy? 
+FILE-1 Unknown top-level declaration u: in RAWDATA/Pepe/introductions.topBUG in topic_andre_anonymous.txt at 0: ^anonymous BUG: Mon Oct 03 00:27:42 2016: input:0 Mon Oct 03 00:27:42 2016 No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence: bad
+No such bot  andre -  -  status: defaultbot word not foundBUG in topic_andre_anonymous.txt at 1: ^anonymous BUG: Mon Oct 03 00:27:43 2016: input:0 Mon Oct 03 00:27:43 2016 
+No such bot  andre -  - how are you status: defaultbot word not found caller:andre callee: at  in sentence: bad
+
+No such bot  andre -  - how are you status: defaultbot word not foundBUG in topic_andre_anonymous.txt at 1: ^anonymous 
+No such bot  andre -  -  status: defaultbot word not foundBUG in family.top at 1: topic: ~FAMILY keep repeat (~family ~family_members ~father ~mother) 
+CONCEPT-8 Cannot include topic into self - ~familyBUG in family.top at 5: u: DAD (your father) 
+TOPIC-3 Illegal bracking in topic keywords (BUG in family.top at 5: u: DAD (your father) 
+TOPIC-5 Failure to balance ( in ~familyBUG in topic_aly_anonymous.txt at 0: ^anonymous BUG: Mon Oct 03 11:27:18 2016: input:0 Mon Oct 03 11:27:18 2016 No such bot  aly -  -  status: defaultbot word not found caller:aly callee: at  in sentence: wawwwwww thanks
+No such bot  aly -  -  status: defaultbot word not foundBUG in introductions.top at 3: $first_time = false 
+Expecting responder for topic ~introductions, got $first_timeBUG in topic_andre_anonymous.txt at 0: ^anonymous BUG: Mon Oct 03 11:33:01 2016: input:0 Mon Oct 03 11:33:01 2016 No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence: input var please
+No such bot  andre -  -  status: defaultbot word not foundBUG in topic_sample_harry.txt at 1: ^harry No such bot  Sample - Harry - hi status: PepeBUG in topic_sample_harry.txt at 0: ^harry No such bot  Sample - Harry - hello! status: Pepe.User data file CONTEXT inconsistent
+BugDepth 1: ReadUserData - 
+.User data file inconsistent
+BugDepth 1: ReadUserData - 
+BUG in topic_sample_harry.txt at 0: ^harry No such bot  Sample - Harry - hi status: PepeBUG in pop.top at 1: u: TAYLOR_SWIFT ("Taylor Swift") 
+FILE-1 Unknown top-level declaration u: in RAWDATA/Pepe/pop.topBUG in topic__build pepe.txt at 1: ^build pepe 
+No such bot  :build Pepe -  -  status: defaultbot word not foundBUG in topic__anonymous.txt at 1: ^anonymous 
+No such bot   -  - a status: defaultbot word not foundBUG in failsafes.top at 1: topic ~failsafes 
+FILE-1 Unknown top-level declaration topic in RAWDATA/Pepe/failsafes.topBUG in topic_andre_anonymous.txt at 0: ^anonymous BUG: Sat Nov 19 02:35:45 2016: input:0 Sat Nov 19 02:35:45 2016 No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence:  
+No such bot  andre -  -  status: defaultbot word not foundBUG in failsafes.top at 4: u: SWEARWORDS ([~bad_words ~emocurse]) 
+FILE-1 Unknown top-level declaration u: in RAWDATA/Pepe/failsafes.topBUG in failsafes.top at 10: u: POLITICS (~modern_politicians) 
+FILE-1 Unknown top-level declaration u: in RAWDATA/Pepe/failsafes.topBUG in topic_andre_anonymous.txt at 0: ^anonymous BUG: Sat Nov 19 02:49:42 2016: input:0 Sat Nov 19 02:49:42 2016 No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence: :define ~insults
+No such bot  andre -  -  status: defaultbot word not foundBUG in death.top at 1: topic: ~death keep repeat (~death) 
+CONCEPT-8 Cannot include topic into self - ~deathBUG in death.top at 3: u: (<<~death {you} when>>) 
+TOPIC-3 Illegal bracking in topic keywords (BUG in death.top at 8:   [Well, there's a million things I haven't done, so just you wait!] 
+TOPIC-5 Failure to balance ( in ~deathBUG in topic_andre_anonymous.txt at 0: ^anonymous No such bot  andre -  -  status: defaultbot word not foundBUG in topic_andre_anonymous.txt at 1: ^anonymous 
+No such bot  andre -  -  status: defaultbot word not foundBUG in topic_andre_anonymous.txt at 1: ^anonymous 
+No such bot  andre -  - a status: defaultbot word not foundBUG in home.top at 8: u: (next topic) ^poptopic(HOME) 
+CALL- 61 1st argument to ^poptopic must be omitted or a topic name or variable which will return a topic name - HOMEBUG in topic_andre_anonymous.txt at 0: ^anonymous BUG: Sun Nov 20 15:37:43 2016: input:0 Sun Nov 20 15:37:43 2016 No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence: who is on the top floor
+No such bot  andre -  -  status: defaultbot word not foundBUG in family.top at 9: u: (<<[who why] Olimpia) Ma'am Olimpia was the greatest at keeping the home tidy. I'm sometimes afraid of her, though. 
+PATTERN-70 Failed to close <<BUG in topic_andre_anonymous.txt at 0: ^anonymous BUG: Sun Nov 20 18:34:41 2016: input:0 Sun Nov 20 18:34:41 2016 No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence: why Ma'am
+No such bot  andre -  -  status: defaultbot word not foundBUG in family.top at 9: u: (<<[who why] Olimpia) Ma'am Olimpia was the greatest at keeping the home tidy. I'm sometimes afraid of her, though. 
+PATTERN-70 Failed to close <<BUG in topic_andre_anonymous.txt at 0: ^anonymous BUG: Sun Nov 20 18:34:56 2016: input:0 Sun Nov 20 18:34:56 2016 No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence: why Ma'am
+No such bot  andre -  -  status: defaultbot word not foundBUG in home.top at 3: ^poptopic(~INTRODUCTIONS) 
+Expecting responder for topic ~home, got ^poptopicBUG in topic_andre_anonymous.txt at 0: ^anonymous BUG: Sun Nov 20 19:27:52 2016: input:0 Sun Nov 20 19:27:52 2016 No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence: okay
+No such bot  andre -  -  status: defaultbot word not foundBUG in parents.top at 44: if(^available(~CHILDHOOD)) 
+IF-13 body must start with { instead of ^gambit  -- saw pattern if(^available(~CHILDHOOD))BUG in topic_andre_anonymous.txt at 0: ^anonymous BUG: Mon Nov 21 01:38:23 2016: input:0 Mon Nov 21 01:38:23 2016 No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence:  
+No such bot  andre -  -  status: defaultbot word not found

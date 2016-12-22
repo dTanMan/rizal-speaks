@@ -1,0 +1,12 @@
+﻿Start: user:alyy bot:pepe ip: rand:655 (~introductions) 0 ==> Welcome to ChatScript.  When:Oct03'16-11:13:51 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Oct03'16-03:46:38 0:Oct03'16-11:13:51 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:alyy bot:pepe ip: (~introductions) 1   sup? ==> Don't know.  When:Oct03'16-11:13:59 Why:~honest_response.33.0.~quibble_all.12.0   F:0 
+Respond: user:alyy bot:pepe ip: (~introductions) 2   what's your name? ==> My name is Pepe.  When:Oct03'16-11:14:16 Why:~introductions.7.0.~control.9.0   F:0 
+Respond: user:alyy bot:pepe ip: (~introductions) 3   pepe the frog? ==> I'm sorry. I don't know.  When:Oct03'16-11:14:22 Why:~honest_response.33.0.~quibble_all.12.0   F:0 
+Respond: user:alyy bot:pepe ip: (~introductions) 4   shit ==> Have you been here before?  When:Oct03'16-11:14:28 Why:~introductions.2.0.~control.9.0   F:0 
+Respond: user:alyy bot:pepe ip: (~introductions) 5   yup. ==> Nice to see you again!  When:Oct03'16-11:14:45 Why:~introductions.2.1   F:0 
+Respond: user:alyy bot:pepe ip: (~introductions) 6   you too ==> How are you doing?  When:Oct03'16-11:14:54 Why:~introductions.3.0.~control.9.0   F:0 
+Respond: user:alyy bot:pepe ip: (~introductions) 7   like shit ==> That's sad. My day was sad too... But you know what?  When:Oct03'16-11:15:17 Why:~introductions.3.1   F:16 
+Respond: user:alyy bot:pepe ip: (~introductions) 8   ? ==> My day's better now that you have come along!  When:Oct03'16-11:15:24 Why:~introductions.3.2   F:0 
+Respond: user:alyy bot:pepe ip: (~introductions) 9   ty. how old are you? ==> You're welcome.  When:Oct03'16-11:15:55 Why:~honest_response.38.0.~quibble_all.12.0   F:0 
+Respond: user:alyy bot:pepe ip: (~introductions) 10   how old are you? ==> Want to chat?  When:Oct03'16-11:16:06 Why:~introductions.4.0.~control.9.0   F:0 
+Respond: user:alyy bot:pepe ip: (~introductions) 11   nah ==> Then press ctrl+c to exit, then. Thank you for your time!  When:Oct03'16-11:16:21 Why:~introductions.4.1   F:0 

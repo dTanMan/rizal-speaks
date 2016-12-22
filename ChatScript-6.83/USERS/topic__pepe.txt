@@ -1,0 +1,20 @@
+USERS/topic__pepe.txt
+jul2116 Oct02'16-19:33:48 Nov21'16-16:43:34 0 |
+1 0 0 DY 0 31 31 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions #pending
+#`end topics
+$first_time=true
+$botprompt=Pepe: 
+$userprompt=: >
+$cs_control_main=~control
+$cs_token=163583
+$cs_bot=Pepe
+$cs_randindex=0
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+#`end user
+ Welcome!
+#`end chatbot

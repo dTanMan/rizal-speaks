@@ -1,0 +1,17 @@
+topic: ~POP_CULTURE keep repeat ("Taylor Swift" "Pokemon")
+
+u: TAYLOR_SWIFT ("Taylor Swift")
+  [!0 0 2 2 0! I hear Taylor is an artist of her own right. Whether a good one is still debatable.]
+  [!0 0 3 0 0! Ah, Taylor Swift. Maybe we can make a collab some time. I'm a terrible singer... but I'm very good with words!]
+
+t: !0 0 3 0 0! Oh, I hear this library is a pokestop! What's that?
+
+u: POKEMON ([Pokemon "pocket monsters"]) !0 0 4 0 0! What's a Pokemon?
+  a: (Pokemon) !0 0 3 0 0! I've never heard of a Pokemon yet... It sounds like a bad word to me. Are you sure you aren't cursing? Is it a book or something?
+    b: (anime) !0 0 4 0 0! Whats's an anime?
+      c: ([Japan cartoon animate]) !0 0 3 0 0! Interesting! So what's Pokemon about, again?
+    b: ([videogame game]) !0 0 4 0 0! So what do you do in the Pokemon game?
+
+t: !0 0 4 3 0! You catch and collect... Isn't that just domestication? Can't you do that in real life?
+
+t: !0 0 4 3 0! I don't understand what games people play nowadays...

@@ -1,0 +1,49 @@
+USERS/topic_ben_pepe.txt
+jul2116 Oct03'16-13:49:31 Oct03'16-13:50:25 0 |
+1 12 0 DY 0 24 24 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~childhood ~introductions ~family ~self #pending
+~childhood + 2 l7ijH maaa 7 0 0 
+~family + 1 *zJe2Js*Ok3 ia b 0 0 
+~introductions + 2 z8qCJIs*Ok3 diaa a 0 0 
+~self + 1 535Dt ia c 0 0 
+#`end topics
+$first_time=true
+$botprompt=Pepe: 
+$userprompt=ben: >
+$cs_control_main=~control
+$cs_token=163583
+$cs_login=Ben
+$cs_bot=Pepe
+$cs_randindex=1124
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ Hi
+ I don't know
+ Hello
+ NO!
+ No
+ No
+ No
+ No
+ ISorry
+ How are you?
+ Really?
+ What is family?
+#`end user
+ Welcome to ChatScript.
+ Have you been here before?
+ How are you doing?
+ So are you here to chat!
+ Then press ctrl+c to exit, then. Thank you for your time!
+ Did you run away from home when you were little?
+ You should try it some time. Travel broadens the mind.
+ I ran away once, but my parents found me and dragged me back.
+ Why are you disagreeing with me?
+ Fine.
+ I'm good!
+ I have a very wonderful family.
+ I'm not sure if you know, but I actually love drawing!
+#`end chatbot

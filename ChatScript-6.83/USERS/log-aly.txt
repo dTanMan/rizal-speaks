@@ -1,0 +1,55 @@
+﻿Start: user:aly bot:pepe ip: rand:677 (~introductions) 0 ==> Welcome to ChatScript.  When:Oct03'16-11:17:04 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Oct03'16-03:46:38 0:Oct03'16-11:17:04 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:aly bot:pepe ip: (~introductions) 1   hi ==> Have you been here before?  When:Oct03'16-11:17:14 Why:~introductions.2.0.~control.9.0   F:0 
+Respond: user:aly bot:pepe ip: (~introductions) 2   yes ==> Nice to see you again!  When:Oct03'16-11:17:16 Why:~introductions.2.1   F:0 
+Respond: user:aly bot:pepe ip: (~introductions) 3   hello ==> How are you today?  When:Oct03'16-11:17:18 Why:~introductions.3.0.~control.9.0   F:0 
+Respond: user:aly bot:pepe ip: (~introductions) 4   like shit ==> That's sad. My day was sad too... But you know what?  When:Oct03'16-11:17:24 Why:~introductions.3.1   F:0 
+Respond: user:aly bot:pepe ip: (~introductions) 5   what ==> My day's better now that you have come along!  When:Oct03'16-11:17:26 Why:~introductions.3.2   F:0 
+Respond: user:aly bot:pepe ip: (~introductions) 6   wawwwwww thanks ==> Cool.  When:Oct03'16-11:17:30 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:0 
+Command: :concepts thanks
+thanks: ~emothanks ~interjections ~stronggoodness ~nounroot ~quotableverbs ~tell ~communications ~goodness ~speak_verbs ~artifacts ~doing_good ~communicate_verbs ~objects ~human_data ~social_verbs ~nounlist ~animate_verbs ~verblist 
+Command: :down ~emothanks
+ <tyvm
+  <ty
+  <tnx
+  <ta_very_much
+  <ta
+  <why_thank_you
+  <thanks_very_much
+  <thanks_to_you_all
+  <thanks_to_everybody
+  <thanks_my_friend
+ 
+   <thanks_mate
+  <thanks_man
+  <thanks_for_your_help
+  <thanks_for_everything
+  <thanks_again
+  <thanks_a_lot
+  <thanks
+  <thank_you_very_much_indeed
+  <thank_you_very_much
+  <thank_you_so_much
+ 
+   <thank_you_goodnight
+  <thank_you_for_the_flowers
+  <thank_you_,_goodnight
+  <thank_you
+  <tanks_eh
+  <much_obliged
+  <much_appreciated
+  <most_awfully_grateful
+  <many_thanks
+  <mahalo
+ 
+   <I_thank_you
+  <I_can_not_thank_you_enough
+  <I_am_very_grateful
+  <I_am_so_grateful
+  <I_am_most_grateful
+  <I_am_indebted_to_you
+ 
+Command: :build Pepe
+No such bot  aly -  -  status: defaultbot word not found   in topic_aly_anonymous.txt at 0: ^anonymous
+    Command: :build Pepe
+Start: user:aly bot:pepe ip: rand:684 (~introductions) 6 ==> Glad you came back.  When:Oct03'16-11:27:22 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Oct03'16-11:27:19 0:Oct03'16-11:17:04 F:0 P:Oct03'16-11:17:30 Why:~introductions.0.0.~control.0.0 
+Respond: user:aly bot:pepe ip: (~introductions) 7   exit ==> Have you been here before?  When:Oct03'16-11:27:26 Why:~introductions.2.0.~control.9.0   F:0 

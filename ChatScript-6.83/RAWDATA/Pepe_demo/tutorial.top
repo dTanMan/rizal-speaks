@@ -1,0 +1,20 @@
+topic: ~introductions repeat keep []
+
+t: [Hello] [Hi] [Hey], I will help you plan your travel.
+  $issue = null # initialize the current issue
+u: SOURCE (be * at _*)
+  $source = '_0 # remember the source
+  $issue = null # clear the current issue
+u: TARGET (go to _*)
+  $target = '_0
+  $issue = null
+u: ($issue=source _*) ^reuse(SOURCE) # If current issue is source, then assume the user answered the question about his source
+u: ($issue=target _*) ^reuse(TARGET)
+u: (!$source)
+  $issue = source # Remember that we asked the user about his source
+  Where are you?
+u: (!$target)
+  $issue = target
+  Where do you want to go?
+u: ($source $target)
+  You want to go from $source to $target.

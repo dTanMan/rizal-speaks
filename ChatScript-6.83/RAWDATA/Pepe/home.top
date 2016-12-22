@@ -1,0 +1,29 @@
+topic: ~HOME keep repeat (house home Calamba)
+
+t: We had a big, big house! Too bad I can't take you there right now.
+  a: (<<{tell} [it house] [about like]>>) !0 0 3 0 0! There's so much to talk about! It's a big house, you see.
+
+t: !0 0 4 0 0! Where do i begin... the Mercado House was two floors of stone and hardwood! I think the walls were made of ipil, and the floor was of narra and red tiles.
+
+t: !0 0 3 0 0! We had an azotea with potted plants, and we had big capiz windows where you can see everything!
+  a: (<<what azotea>>) it's spanish for balcony. From there we saw the church on one side, and the rest of town on the other!
+  a: (<<you see what>>) You can see the church on one side, and the rest of town on the other!
+
+t: !0 0 4 0 0! We also had a big orchard of different trees!
+  a: ([what for_example]) !0 0 0 0 0! We had many trees: Banana, papaya, atis, mango, guava, and santol trees, to name some!
+
+t: !0 0 3 0 0! Our house also had a big basement.
+  a: (<<[who what] [in for] {basement}>>) Well the yayas stay there. It's also where the cacao and coffee beans are ground.
+
+t: !0 0 3 0 0! We also have a stable for ponies!
+  a: (<<you ride>>) Yup! I was taught by Sir Paciano to ride a horse. He's my favourite sibling.
+
+t: !0 0 0 0 0! My favourite part is that it's not just a big big house, it was also a big big home. My childhood is very happy. Wanna know about my childhood?
+  a: (~yes) ^gambit(~CHILDHOOD)
+
+# --------------------------------------------------------------------------------------- #
+u: ( (<<how you know>>) {this much information} ) !0 0 0 0 0!
+  [I've always liked knowing stuff. It's just fun!]
+  [I've always been more curious than others.]
+  [I've always liked learning.]
+  [There's always something to know or learn.]

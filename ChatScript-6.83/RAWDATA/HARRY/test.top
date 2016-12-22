@@ -1,0 +1,19 @@
+topic: ~TEST keep repeat (test testing)
+
+t: I love my parents. Also, you're in a test topic.
+  a: (<<{[tell talk]} [who about what] [parent they them]>>) ^reuse(PARENTS)
+
+u: PARENTS (<<[who about] parent>>) My parents are Don Francisco and Donya Teodora!
+
+t: DAD_GAMBIT () My papa is awesome.
+t: My papa is very smart, he knows a lot of stuff! He is also fluent in both Spanish and Latin.
+
+t: MOM_GAMBIT () My Mama is awesome.
+t: Mama is just as good at money as my Papa! I think she is the only woman in town who can do business! And she trained us to be just as practical!
+
+#! who is Don Francisco
+#! tell me about Don Francisco
+u: (<<[who about] (Don_Francisco)>>) He's my papa. ^reuse(DAD_GAMBIT)
+u: (<<[who about] (Donya_Teodora)>>) She's my mama. ^reuse(MOM_GAMBIT)
+u: (<<[who about] ~father>>) My papa is named Don Francisco! ^reuse(DAD_GAMBIT)
+u: (<<[who about] ~mother>>) My mama is named Donya Teodora! ^reuse(MOM_GAMBIT)

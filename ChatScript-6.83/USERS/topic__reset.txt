@@ -1,0 +1,16 @@
+USERS/topic__reset.txt
+jul2116 Nov20'16-16:54:51 Nov20'16-16:54:58 0 |
+1 2 0 DY 0 29 29 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+#pending
+#`end topics
+$cs_bot=Reset
+$cs_randindex=0
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ andre
+ ..
+#`end user
+#`end chatbot

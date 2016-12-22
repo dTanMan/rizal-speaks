@@ -1,0 +1,68 @@
+USERS/topic_maia_harry.txt
+jul2116 Sep25'16-15:19:21 Sep25'16-15:23:07 1474788176-4.9.0 |
+1 23 0 DY 0 22 22 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~childhood ~introductions #pending
+~childhood + 2 l7ijH piaa c 0 0 
+~introductions + 1 8H9S3Js*Ok3 da j 0 0 
+#`end topics
+$cs_randindex=2957
+$cs_bot=Harry
+$cs_login=maia
+$cs_token=163583
+$cs_control_main=~control
+$userprompt=maia: >
+$botprompt=HARRY: 
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context ~honest_response 23 GRUNT 
+ hello
+ no
+ no
+ ok
+ no
+ i don't want to
+ were they angry
+ what did they do to you
+ the dark
+ yes
+ why
+ okay
+ no
+ because my dad was strict
+ a
+ a
+ a
+ a
+ what is your name
+ goodbye
+ bye
+ Good bye
+ zai jian
+#`end user
+ Welcome to ChatScript.
+ Have you been here before?
+ Care to explain further?
+ OK. So we disagree.
+ Did you run away from home when you were little?
+ You should try it some time. Travel broadens the mind.
+ I ran away once, but my parents found me and dragged me back.
+ I forget.
+ What scared you as a kid?
+ Did you use a nightlite?
+ I was scared of machines. I had vivid dreams of the Terminator robots.
+ You'd have to ask someone else. I don't know.
+ Did you have a happy childhood?
+ No? How come?
+ I don't know what to say.
+ I don't know what to say.
+ I don't know what to say.
+ I don't know what to say.
+ I don't know what to say.
+ My name is Harry.
+ I don't know what to say.
+ I don't know what to say.
+ I don't know what to say.
+ Right.
+#`end chatbot

@@ -1,0 +1,36 @@
+USERS/topic_aly_pepe.txt
+jul2116 Oct03'16-11:17:04 Oct03'16-11:27:26 0 |
+7 7 ~introductions !Mb e*WT9Js*Ok3  DY 0 24 24 0 # start, input#, rejoindertopic,rejoinderid (a:  ( %input<%userfirstline %input>0 ~yes ) Nice to see you again, %user ! ),checksum
+~introductions #pending
+~introductions + 2 e*WT9Js*Ok3 caaa 7 0 0 
+#`end topics
+$botprompt=Pepe: 
+$userprompt=aly: >
+$cs_control_main=~control
+$cs_token=163583
+$cs_login=aly
+$cs_bot=Pepe
+$cs_randindex=677
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context ~honest_response 6 GRUNT 
+ hi
+ yes
+ hello
+ like shit
+ what
+ wawwwwww thanks
+ exit
+#`end user
+ Welcome to ChatScript.
+ Have you been here before?
+ Nice to see you again!
+ How are you today?
+ That's sad. My day was sad too... But you know what?
+ My day's better now that you have come along!
+ Cool.
+ Glad you came back.
+ Have you been here before?
+#`end chatbot

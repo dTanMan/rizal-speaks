@@ -1,0 +1,11 @@
+﻿Start: user:jrl426 bot:pepe ip: rand:1061 (~introductions) 0 ==> Hello!  When:Nov21'16-16:37:32 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Nov21'16-01:54:11 0:Nov21'16-16:37:32 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:jrl426 bot:pepe ip: (~introductions) 1     ==> Have you talked to me before?  When:Nov21'16-16:37:34 Why:~introductions.2.0.~control.9.0   F:0 
+Respond: user:jrl426 bot:pepe ip: (~introductions) 2   no eh why ==> How are you today?  When:Nov21'16-16:37:39 Why:~introductions.3.0.~control.9.0   F:0 
+Respond: user:jrl426 bot:pepe ip: (~introductions) 3   kinda sleepy, you? ==> That's sad. My day was sad too... But you know what?  When:Nov21'16-16:37:47 Why:~introductions.3.1   F:0 
+Respond: user:jrl426 bot:pepe ip: (~introductions) 4   what ==> My day's better now that you have come along!  When:Nov21'16-16:38:00 Why:~introductions.3.2   F:0 
+Respond: user:jrl426 bot:pepe ip: (~introductions) 5   awww ==> Fine.  When:Nov21'16-16:38:03 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:0 
+Respond: user:jrl426 bot:pepe ip: (~introductions) 6   what did you say ==> I'm not sure I can be any clearer.  When:Nov21'16-16:38:07 Why:~honest_response.35.0.~quibble_all.12.0   F:0 
+Respond: user:jrl426 bot:pepe ip: (~introductions) 7   why ==> The usual reasons.  When:Nov21'16-16:38:11 Why:~quibble_why.108.0.~quibble_all.5.0   F:0 
+Respond: user:jrl426 bot:pepe ip: (~introductions) 8   why not ==> Because.  When:Nov21'16-16:38:13 Why:~quibble_not.153.0=WHYNOT.~quibble_all.0.0   F:0 
+Respond: user:jrl426 bot:pepe ip: (~introductions) 9   she me ==> So are you here to chat?  When:Nov21'16-16:38:17 Why:~introductions.4.0.~control.9.0   F:0 
+Exiting ChatScript via Quit

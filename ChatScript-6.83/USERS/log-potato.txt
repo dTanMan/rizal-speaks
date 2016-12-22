@@ -1,0 +1,26 @@
+﻿Start: user:potato bot:pepe ip:127.0.0.1 rand:688 (~introductions) 0 ==> Welcome to ChatScript.  When:Oct01'16-22:29:57 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Sep26'16-01:44:03 0:Oct01'16-22:29:57 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:potato bot:pepe ip:127.0.0.1 (~introductions) 1  hi  ==> Have you been here before?  When:Oct01'16-22:30:01 Why:~introductions.2.0.~control.9.0   F:0 
+Respond: user:potato bot:pepe ip:127.0.0.1 (~introductions) 2  nope  ==> No? Why don't you agree with me?  When:Oct01'16-22:30:10 Why:~honest_response.1.0.~quibble_all.12.0   F:0 
+Respond: user:potato bot:pepe ip:127.0.0.1 (~introductions) 3  i haven't been here before  ==> I guess you are not an optimist, either.  When:Oct01'16-22:30:17 Why:~quibble_not.154.0=MISCNOT1.~quibble_all.0.0   F:0 
+Respond: user:potato bot:pepe ip:127.0.0.1 (~childhood) 4  quite the opposite  ==> Did you run away from home when you were little?  When:Oct01'16-22:30:28 Why:~childhood.0.0.~control.9.0   F:0 
+Respond: user:potato bot:pepe ip:127.0.0.1 (~childhood) 5  yes  ==> Was it fun?  When:Oct01'16-22:30:34 Why:~childhood.0.1   F:0 
+Respond: user:potato bot:pepe ip:127.0.0.1 (~childhood) 6  yes  ==> I ran away once, but my parents found me and dragged me back.  When:Oct01'16-22:30:36 Why:~childhood.1.0=RUNAWAY.~keywordless.2.0   F:0 
+Respond: user:potato bot:pepe ip:127.0.0.1 (~childhood) 7  what happened  ==> What scared you as a kid?  When:Oct01'16-22:30:42 Why:~childhood.2.0.~control.9.0   F:0 
+Respond: user:potato bot:pepe ip:127.0.0.1 (~childhood) 8  heights  ==> I was scared of machines. I had vivid dreams of the Terminator robots.  When:Oct01'16-22:30:49 Why:~childhood.3.0=SCARE.~control.9.0   F:0 
+Respond: user:potato bot:pepe ip:127.0.0.1 (~childhood) 9  wow  ==> Did you have a happy childhood?  When:Oct01'16-22:30:54 Why:~childhood.4.0.~control.9.0   F:0 
+Respond: user:potato bot:pepe ip:127.0.0.1 (~childhood) 10  yes  ==> So nice that we agree.  When:Oct01'16-22:30:59 Why:~honest_response.2.0.~quibble_all.12.0   F:0 
+.User data file CONTEXT inconsistent
+.User data file inconsistent
+Start: user:potato bot:pepe ip:127.0.0.1 rand:1939 (~introductions) 10 ==> Glad you came back.  When:Oct11'16-10:08:44 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Oct11'16-10:07:13 0:Oct01'16-22:29:57 F:0 P:Oct01'16-22:30:59 Why:~introductions.0.0.~control.0.0 
+Command: :reset 
+Start: user:potato bot:pepe ip:127.0.0.1 rand:689 (~introductions) 0 ==> Nihao!  When:Oct11'16-10:08:47 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Oct11'16-10:07:13 0:Oct01'16-22:29:57 F:0 P:Oct01'16-22:30:59 Why:~introductions.1.0.~control.0.0 
+Command: :build Pepe
+Respond: user:potato bot:pepe ip:127.0.0.1 (~introductions) 1  hi ==> Have you talked to me before?  When:Oct11'16-10:09:39 Why:~introductions.2.0.~control.9.0   F:0 
+Respond: user:potato bot:pepe ip:127.0.0.1 (~introductions) 2  no ==> Well, it's nice to meet you, potato!  When:Oct11'16-10:09:42 Why:~introductions.2.1   F:0 
+Respond: user:potato bot:pepe ip:127.0.0.1 (~introductions) 3  hello! ==> How are you today?  When:Oct11'16-10:09:46 Why:~introductions.3.0.~control.9.0   F:0 
+Respond: user:potato bot:pepe ip:127.0.0.1 (~introductions) 4  i'm good ==> That's great to hear!  When:Oct11'16-10:09:47 Why:~introductions.3.4   F:0 
+Respond: user:potato bot:pepe ip:127.0.0.1 (~introductions) 5  nice ==> So are you here to chat?  When:Oct11'16-10:09:49 Why:~introductions.4.0.~control.9.0   F:0 
+Respond: user:potato bot:pepe ip:127.0.0.1 (~introductions) 6  yeah ==> Nice! I wonder what we can talk about...  When:Oct11'16-10:09:51 Why:~introductions.4.2   F:0 
+Respond: user:potato bot:pepe ip:127.0.0.1 (~self) 7  tell me about your family. ==> I believe us, youth, should really go out more! I mean look at us, we certainly need the fresh air. I've been stuck in this computer of quite some time now!  When:Oct11'16-10:09:56 Why:~self.1.0.~control.9.0   F:16 
+Command: :reset
+Start: user:potato bot:pepe ip:127.0.0.1 rand:689 (~introductions) 0 ==> Nihao!  When:Oct11'16-10:10:01 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Oct11'16-10:09:35 0:Oct01'16-22:29:57 F:0 P:Oct11'16-10:09:56 Why:~introductions.1.0.~control.0.0 

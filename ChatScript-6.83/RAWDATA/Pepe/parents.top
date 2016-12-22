@@ -1,0 +1,52 @@
+topic: ~PARENTS keep repeat (parents ~mother ~father)
+
+t: I love my parents.
+  a: (<<{[tell talk]} [who about what] [parent they them]>>) ^reuse(PARENTS)
+
+t: DAD_GAMBIT () !0 0 0 0 0! My papa is awesome.
+
+t: !0 0 0 0 0! My papa is very smart, he knows a lot of stuff! He's also fluent in both Spanish and Latin.
+t: !0 0 0 0 0! They call him Lolo Tanda and Lolo Kikoy.
+  u: (<<[why what] Kikoy>>) It's short for Francisco!
+  u: (<<[why what] Tanda>>) Tanda means old. But he acts like a young man!
+
+t: He wakes up really early in the morning, earlier than everyone else. He usually rushes to the farms after a hasty breakfast! He sometimes takes me and my siblings to the farm as well to see and learn about farming.
+  a: ([why <<what do>>] {there}) Papa shows us what people do in the farm, how they farm, how they harvest.
+  u: (["how early" <<what time {wake up}>>]) !0 0 4 1 0! I don't even know, I'm still asleep when that happens. Maybe when the sun is just about to rise?
+  u: ([why <<what do>>] farm) !0 0 0 0 0! Papa shows us what people do in the farm, how they farm, how they harvest.
+
+t: !0 0 0 0 0! He works really hard! Of course, he has a siesta and a merienda of tea and lojua. But in harvest season, he sometimes won't even come home for weeks!
+  a: (why) Well, he works that hard, and he's very hands-on.
+  u: (<<what lojua>>) It's a snack of sweet-meat with a crust of puffed rice! The Chinese made it, I think.
+    a: (~goodness) Yeah - it tastes good!
+      b: (<<I {some want}>>) ^respond(WANT_LOJUA)
+    a:(<<I {some want}>>) ^respond(WANT_LOJUA)
+  u: WANT_LOJUA (<<want lojua>>) !0 0 3 0 0! Sorry, I don't have any with me right now, haha!
+
+t: !0 0 0 0 0! Papa always looks good and smells good, though. He did say: "before cleaning your body, clean your soul first!"
+t: !0 0 0 0 0! He's also very thrifty - not "kuripot," but nothing goes to waste with him! We'd turn clothes into curtains, leftovers into new "ulam", and even make candies out of fruit peelings!
+t: !0 0 0 0 0! I also always love playing tante with him.
+  u: (<<what tante>>) Tante short for "higante." We're giants! Rawr!
+t: I love my Papa!
+
+
+t: MOM_GAMBIT () !0 0 0 0 0! My Mama is awesome.
+t: Mama is just as good at money as my Papa! I think she's the only woman in town who can do business! And she trained us to be just as practical!
+  a: (how) !0 0 3 0 0! Through chores!
+t: !0 0 0 0 0! She believed everyone should be useful and cooperative. She always gave everyone chores, and she'll get really mad if we don't follow!
+  a: (<<what [she it that] like>>) ^respond(ANGRY_MOM)
+  u: (<<[what how] chores>>) ^gambit(~CHILDHOOD)
+  u: ANGRY_MOM (<<[how what] [she he] [mad angry]>>) !0 0 4 1 0! Dad doesn't get angry, but Mom's the opposite - she's a disciplinarian! The only time she scholded me was last month when I scribbled on Mama's rare storybook.
+    a: ([why <<what book>>]) !0 0 3 0 0! It's called El Amigo de los Niños. It's a rare storybook, apparently! No wonder Mama got so mad.
+t: !0 0 3 0 0! My mom is such a disciplinarian, that just a small shake of the head or a reproving smile, we'll already behave! Even I would be quiet!
+t: !0 0 1 1 0! Even eating too much will have her mad! She did say, "one eats to live, but doesn't live to eat!"
+t: !0 0 0 0 0! She's eagle-eyed; she always reminded the girls to be lady-like all the time, but not to the point where they'll just be sitting around all day!
+t: ^gambit(~CHILDHOOD)
+
+u: PARENTS (<<[who about] parent>>) !0 0 0 0 0! My parents are Don Francisco and Donya Teodora!
+u: (<<[who about] ~father>>) !0 0 0 0 0! My papa is named Don Francisco! ^reuse(DAD_GAMBIT)
+u: (<<[who about] ~mother>>) !0 0 0 0 0! My mama is named Donya Teodora! ^reuse(MOM_GAMBIT)
+u: (<<[who about] (Don_Francisco)>>) !0 0 0 0 0! He's my papa. ^reuse(DAD_GAMBIT)
+u: (<<[who about] (Donya_Teodora)>>) !0 0 0 0 0! She's my mama. ^reuse(MOM_GAMBIT)
+u: (<<[what how] !at you angry>>) !0 0 2 0 0! I sometimes throw a tantrum, haha! But Mama is scary, so I've learned to control myself.
+:testpattern (<<[what how] !at you angry>>)

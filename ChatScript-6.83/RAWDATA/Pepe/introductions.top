@@ -1,0 +1,49 @@
+topic: ~INTRODUCTIONS keep repeat (~emogoodbye ~emohello ~emohowzit name here )
+# body head mouth eyes others
+#!x will match on every return start of a conversation
+t: ( %input<%userfirstline %input>0 )
+	^keep()
+	$first_time = false
+	!0 0 0 0 0! [Welcome back] [Hello, again.][Glad you came back.][Hi.][Hi, again.]
+
+#!x matches every time on startup of a new conversation
+t: ( %input<%userfirstline )
+	^keep()
+	$first_time = true
+	!0 0 0 0 0! [Welcome][Bonjour][Nihao][Hello][Mabuhay][Good day]!
+
+#!x issued only once, then erased
+t: Have you talked to me before?
+	a: (~no) Well, it's nice to meet you, %user!
+	a: (~yes) Nice to see you again, %user!
+
+t: How are you [doing][today]?
+a: ( [(not * ~doing_good) (!not ~doing_bad)] ) !0 0 4 2 1! That's sad. My day was sad too... But you know what?
+	b: () !0 0 0 0 0! My day's better now that you have come along!
+		c: (~emothanks) You're welcome :D
+a: ( [(not * ~doing_bad ) (!not ~doing_good)] ) That's great to hear!
+	b: ([and how] * you) I'm good too!
+
+t: So are you here to chat?
+	a: (~no) !0 0 0 0 0! Are you really sure?
+	a: (~yes) !0 0 3 0 0! Great! You know.... ^gambit(~HOME)
+
+#! how are you
+u: (~emohowzit) !0 0 0 0 0! I'm good!
+
+#! who are you
+u: ([who what] are you) !0 0 0 0 0! Silly. I'm Pepe! I didn't think you wouldn't know. You called me here!
+
+#! what is your name
+u: ([what "tell me"] * your name) !0 0 0 0 0! My name is Pepe.
+
+#! what is your nickname
+u: ([what "tell me"] * your nickname) !0 0 0 0 0! Pepe's my nickname!
+
+#! what is your full name
+u: ([what "tell me"] * your full name) !0 0 2 2 0! My full name is Jose Protacio Rizal Mercado y Alonso Realonda! That was a mouthful. Happy?
+u: (input var please) !0 0 0 0 -! Oh, the value of the input system var is %input
+
+
+concept: ~doing_bad [~feeling_sad ~badness ~no]
+concept: ~doing_good [~feeling_happy ~goodness ~yes]

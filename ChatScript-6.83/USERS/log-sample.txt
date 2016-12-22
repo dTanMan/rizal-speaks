@@ -1,0 +1,12 @@
+﻿No such bot  Sample - Harry - hi status: Pepe   in topic_sample_harry.txt at 1: ^harry
+    Command: :build Pepe
+No such bot  Sample - Harry - hello! status: Pepe   in topic_sample_harry.txt at 0: ^harry
+    Command: :build Pepe
+Command: :reset
+Start: user:sample bot: ip:127.0.0.1 rand:1938 () 0 ==>   When:Oct11'16-10:26:59 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Oct11'16-10:26:53 0:Oct11'16-10:26:59 F:0 P:0 
+Command: :reset
+Start: user:sample bot: ip:127.0.0.1 rand:1938 () 0 ==>   When:Oct11'16-10:27:00 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Oct11'16-10:26:53 0:Oct11'16-10:27:00 F:0 P:0 
+Command: :build Pepe
+No such bot  Sample - Harry - hi status: Pepe   in topic_sample_harry.txt at 0: ^harry
+    Command: :reset
+Start: user:sample bot: ip:127.0.0.1 rand:1938 () 0 ==>   When:Oct11'16-10:27:17 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Oct11'16-10:27:03 0:Oct11'16-10:27:17 F:0 P:0 

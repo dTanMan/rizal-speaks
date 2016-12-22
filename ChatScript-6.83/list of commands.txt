@@ -1,0 +1,107 @@
+Command: :commands
+
+---- Debugging commands -
+:do - Execute the arguments as an output stream, e.g., invoke a function, set variables, etc
+:silent - toggle silent - dont show outputs
+:log - dump message into log file
+:noreact - Disable replying to input
+:notime - Toggle notiming during this topic
+:notrace - Toggle notracing during this topic
+:redo - Back up to turn n and try replacement user input
+:retry - Back up and try replacement user input or just redo last sentence
+:say - Make chatbot say this line
+:skip - Erase next n gambits
+:show - All, Input, Mark, Number, Pos, Stats, Topic, Topics, Why, Reject, Newlines
+:time - Set timing variable (all none prepare match ruleflow pattern query json macro user usercache sql tcp topic)
+:trace - Set trace variable (all none basic prepare match output pattern infer query substitute hierarchy fact control topic pos)
+:why - Show rules causing most recent output
+:authorize - Flip authorization for all debug commands
+
+---- Fact info -
+:allfacts - Write all facts to TMP/facts.tmp
+:facts - Display all facts with given word or meaning or fact set
+:userfacts - Display current user facts
+
+---- Topic info -
+:gambits - Show gambit sequence of topic
+:pending - Show current pending topics list
+:topicstats - Show stats on all topics or named topic or NORMAL for non-system topics
+:topicinfo - Show information on a topic
+:topics - Show topics that given input resonates with
+:where - What file is the given topic in
+
+---- System info -
+:commands - Show all :commands
+:context - Display current context labels
+:conceptlist - Show all concepts- or with argument show concepts starting with argument
+:definition - Show code of macro named
+:directories - Show current directories
+:functions - List all defined system ^functions
+:identify - Give version data on this CS
+:macros - List all user-defined ^macros and plans
+:memstats - Show memory allocations
+:list - $ (variables) @ (factsets)  _  (match variables)   ^ (macros)   ~ (topics&concepts)
+:queries - List all defined queries
+:timedfunctions - List all user defined macros currently being timed
+:timedtopics - List all topics currently being timed
+:tracedfunctions - List all user defined macros currently being traced
+:tracedtopics - List all topics currently being traced
+:variables - Display current user/sysytem/match/all variables
+:who - show current login/computer pair
+
+---- Word information -
+:down - Show wordnet items inheriting from here or concept members
+:concepts - Show concepts triggered by this word
+:findwords - show words matching pattern of letters and *
+:hasflag - List words of given set having or !having some system flag
+:nonset - List words of POS type not encompassed by given set
+:overlap - Direct members of set x that are also in set y somehow
+:up - Display concept structure above a word
+:word - Display information about given word
+
+---- System Control commands -
+:build - Compile a script - filename {nospell,outputspell,reset}
+:bot - Change to this bot
+:crash - Simulate a server crash
+:flush - Flush server cached user data to files
+:quit - Exit ChatScript
+:reset - Start user all over again, flushing his history
+:restart - Restart Chatscript
+:user - Change to named user, not new conversation
+
+---- Script Testing -
+:autoreply - [OK,Why] use one of those as all input.
+:common - What concepts have the two words in common.
+:prepare - Show results of tokenization, tagging, and marking on a sentence
+:regress - create or test a regression file
+:source - Switch input to named file
+:testpattern - See if a pattern works with an input.
+:testtopic - Try named topic responders on input
+:verify - Given test type & topic, test that rules are accessible. Tests: pattern (default), blocking(default), keyword(default), sample, gambit, all.
+
+---- Document Processing -
+:document - Switch input to named file/directory as a document {single, echo}
+:wikitext - read wiki xml and write plaintext
+
+---- Analytics -
+:abstract - Display overview of ChatScript topics
+:diff - match 2 files and report lines that differ
+:trim - Strip excess off chatlog file to make simple file TMP/tmp.txt
+
+---- internal support -
+:topicdump - Dump topic data suitable for inclusion as extra topics into TMP/tmp.txt (:extratopic or PerformChatGivenTopic)
+:builddict -  basic, layer0, layer1, or wordnet are options instead of default full
+:clean - Convert source files to NL instead of CR/LF for unix
+:endpguser - Switch from postgres user topic to file system
+:extratopic - given topic name and file as output from :topicdump, build in core topic and use it thereafter
+:pennformat - rewrite penn tagfile (eg as output from stanford) as one liners
+:pennmatch - FILE {raw ambig} compare penn file against internal result
+:pennnoun - locate mass nouns in pennbank
+:pos - Show results of tokenization and tagging
+:sortconcept - Prepare concept file alphabetically
+:timepos - compute wps average to prepare inputs
+:verifypos - Regress pos-tagging using default REGRESS/postest.txt file or named file
+:verifyspell - Regress spell checker against file
+:verifysubstitutes - Regress test substitutes of all kinds
+:worddump - show words via hardcoded test
+:verifySentence - verification data

@@ -1,0 +1,36 @@
+﻿Start: user:maia bot:harry ip: rand:2957 (~introductions) 0 ==> Welcome to ChatScript.  When:Sep25'16-15:19:21 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Sep25'16-14:57:34 0:Sep25'16-15:19:21 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:maia bot:harry ip: (~introductions) 1   hello ==> Have you been here before?  When:Sep25'16-15:19:29 Why:~introductions.2.0.~control.9.0   F:0 
+Respond: user:maia bot:harry ip: (~introductions) 2   no. have you? ==> Care to explain further?  When:Sep25'16-15:19:37 Why:~honest_response.1.0.~quibble_all.12.0   F:0 
+Respond: user:maia bot:harry ip: (~introductions) 3   have you been here before? ==> I forget.  When:Sep25'16-15:19:57 Why:~honest_response.30.0.~quibble_all.12.0   F:0 
+Respond: user:maia bot:harry ip: (~childhood) 4   how are you? ==> Did you run away from home when you were little?  When:Sep25'16-15:20:27 Why:~childhood.0.0.~control.9.0   F:0 
+Respond: user:maia bot:harry ip: (~childhood) 5   no. why did you ask ==> You should try it some time. Travel broadens the mind.  When:Sep25'16-15:20:36 Why:~childhood.0.2   F:16 
+Respond: user:maia bot:harry ip: (~childhood) 6   sure. treat me the air fare ==> I ran away once, but my parents found me and dragged me back.  When:Sep25'16-15:20:57 Why:~childhood.1.0=RUNAWAY.~keywordless.2.0   F:0 
+Respond: user:maia bot:harry ip: (~childhood) 7   what happened next ==> I don't know.  When:Sep25'16-15:21:16 Why:~honest_response.33.0.~quibble_all.12.0   F:16 
+Command: :reset
+Start: user:maia bot:harry ip: rand:2957 (~introductions) 0 ==> Welcome to ChatScript.  When:Sep25'16-15:21:22 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Sep25'16-14:57:34 0:Sep25'16-15:19:21 F:0 P:Sep25'16-15:21:16 Why:~introductions.1.0.~control.0.0 
+Respond: user:maia bot:harry ip: (~introductions) 1   clear ==> Have you been here before?  When:Sep25'16-15:21:26 Why:~introductions.2.0.~control.9.0   F:16 
+Command: :reset
+Start: user:maia bot:harry ip: rand:2957 (~introductions) 0 ==> Welcome to ChatScript.  When:Sep25'16-15:21:30 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Sep25'16-14:57:34 0:Sep25'16-15:19:21 F:0 P:Sep25'16-15:21:26 Why:~introductions.1.0.~control.0.0 
+Respond: user:maia bot:harry ip: (~introductions) 1   hello ==> Have you been here before?  When:Sep25'16-15:21:33 Why:~introductions.2.0.~control.9.0   F:0 
+Respond: user:maia bot:harry ip: (~introductions) 2   no ==> Care to explain further?  When:Sep25'16-15:21:35 Why:~honest_response.1.0.~quibble_all.12.0   F:0 
+Respond: user:maia bot:harry ip: (~introductions) 3   no ==> OK. So we disagree.  When:Sep25'16-15:21:38 Why:~honest_response.1.0.~quibble_all.12.0   F:0 
+Respond: user:maia bot:harry ip: (~childhood) 4   ok ==> Did you run away from home when you were little?  When:Sep25'16-15:21:40 Why:~childhood.0.0.~control.9.0   F:0 
+Respond: user:maia bot:harry ip: (~childhood) 5   no ==> You should try it some time. Travel broadens the mind.  When:Sep25'16-15:22:01 Why:~childhood.0.2   F:0 
+Respond: user:maia bot:harry ip: (~childhood) 6   i don't want to ==> I ran away once, but my parents found me and dragged me back.  When:Sep25'16-15:22:08 Why:~childhood.1.0=RUNAWAY.~control.9.0   F:0 
+Respond: user:maia bot:harry ip: (~childhood) 7   were they angry ==> I forget.  When:Sep25'16-15:22:21 Why:~honest_response.33.0.~quibble_all.12.0   F:0 
+Respond: user:maia bot:harry ip: (~childhood) 8   what did they do to you ==> What scared you as a kid?  When:Sep25'16-15:22:26 Why:~childhood.2.0.~control.9.0   F:15 
+Respond: user:maia bot:harry ip: (~childhood) 9   the dark ==> Did you use a nightlite?  When:Sep25'16-15:22:28 Why:~childhood.2.1   F:0 
+Respond: user:maia bot:harry ip: (~childhood) 10   yes ==> I was scared of machines. I had vivid dreams of the Terminator robots.  When:Sep25'16-15:22:35 Why:~childhood.3.0=SCARE.~keywordless.2.0   F:0 
+Respond: user:maia bot:harry ip: (~childhood) 11   why ==> You'd have to ask someone else. I don't know.  When:Sep25'16-15:22:41 Why:~quibble_why.103.0.~quibble_all.5.0   F:0 
+Respond: user:maia bot:harry ip: (~childhood) 12   okay ==> Did you have a happy childhood?  When:Sep25'16-15:22:44 Why:~childhood.4.0.~keywordless.2.0   F:0 
+Respond: user:maia bot:harry ip: (~childhood) 13   no ==> No? How come?  When:Sep25'16-15:22:47 Why:~honest_response.1.0.~quibble_all.12.0   F:0 
+Respond: user:maia bot:harry ip: (~childhood) 14   because my dad was strict ==> I don't know what to say.  When:Sep25'16-15:22:54 Why:~control.9.0   F:0 
+Respond: user:maia bot:harry ip: (~childhood) 15   a ==> I don't know what to say.  When:Sep25'16-15:22:56 Why:~control.9.0   F:0 
+Respond: user:maia bot:harry ip: (~childhood) 16   a ==> I don't know what to say.  When:Sep25'16-15:22:57 Why:~control.9.0   F:0 
+Respond: user:maia bot:harry ip: (~childhood) 17   a ==> I don't know what to say.  When:Sep25'16-15:22:57 Why:~control.9.0   F:0 
+Respond: user:maia bot:harry ip: (~childhood) 18   a ==> I don't know what to say.  When:Sep25'16-15:22:57 Why:~control.9.0   F:0 
+Respond: user:maia bot:harry ip: (~introductions) 19   what is your name ==> My name is Harry.  When:Sep25'16-15:23:00 Why:~introductions.3.0.~control.9.0   F:15 
+Respond: user:maia bot:harry ip: (~introductions) 20   goodbye ==> I don't know what to say.  When:Sep25'16-15:23:03 Why:~control.9.0   F:0 
+Respond: user:maia bot:harry ip: (~introductions) 21   bye ==> I don't know what to say.  When:Sep25'16-15:23:04 Why:~control.9.0   F:0 
+Respond: user:maia bot:harry ip: (~introductions) 22   Good bye ==> I don't know what to say.  When:Sep25'16-15:23:06 Why:~control.9.0   F:0 
+Respond: user:maia bot:harry ip: (~introductions) 23   zai jian ==> Right.  When:Sep25'16-15:23:07 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:32 

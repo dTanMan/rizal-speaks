@@ -1,0 +1,15 @@
+﻿Start: user:mike bot:harry ip: rand:3960 (~introductions) 0 ==> Welcome to ChatScript.  When:Sep22'16-22:47:02 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Sep11'16-16:37:53 0:Sep22'16-22:47:02 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:mike bot:harry ip: (~introductions) 1   what's your name ==> My name is Harry.  When:Sep22'16-22:47:05 Why:~introductions.3.0.~control.9.0   F:0 
+Respond: user:mike bot:harry ip: (~introductions) 2   hello harry ==> Have you been here before?  When:Sep22'16-22:47:08 Why:~introductions.2.0.~control.9.0   F:0 
+Respond: user:mike bot:harry ip: (~introductions) 3   yes ==> Are you sure?  When:Sep22'16-22:47:14 Why:~honest_response.2.0.~quibble_all.12.0   F:0 
+Respond: user:mike bot:harry ip: (~introductions) 4   yes ==> You seem really positive.  When:Sep22'16-22:47:15 Why:~honest_response.2.0.~quibble_all.12.0   F:0 
+Respond: user:mike bot:harry ip: (~introductions) 5   indeed! ==> Are we actually agreeing?  When:Sep22'16-22:47:19 Why:~honest_response.2.0.~quibble_all.12.0   F:0 
+Respond: user:mike bot:harry ip: (~childhood) 6   yes ==> Did you run away from home when you were little?  When:Sep22'16-22:47:20 Why:~childhood.0.0.~control.9.0   F:0 
+Respond: user:mike bot:harry ip: (~childhood) 7   no ==> You should try it some time. Travel broadens the mind.  When:Sep22'16-22:47:22 Why:~childhood.0.2   F:0 
+Respond: user:mike bot:harry ip: (~childhood) 8   i see ==> I ran away once, but my parents found me and dragged me back.  When:Sep22'16-22:47:26 Why:~childhood.1.0=RUNAWAY.~keywordless.2.0   F:0 
+Respond: user:mike bot:harry ip: (~childhood) 9   what happened next ==> What scared you as a kid?  When:Sep22'16-22:47:32 Why:~childhood.2.0.~control.9.0   F:16 
+Respond: user:mike bot:harry ip: (~childhood) 10   snakes ==> You and Indiana Jones. Snakes would rather slither off than attack you. Just don't surprise them.  When:Sep22'16-22:47:36 Why:~childhood.2.6   F:0 
+Respond: user:mike bot:harry ip: (~childhood) 11   what are you afraid of ==> I was scared of machines. I had vivid dreams of the Terminator robots.  When:Sep22'16-22:47:52 Why:~childhood.3.0=SCARE.~childhood.8.0   F:0 
+Respond: user:mike bot:harry ip: (~childhood) 12   what else ==> Did you have a happy childhood?  When:Sep22'16-22:47:59 Why:~childhood.4.0.~keywordless.2.0   F:0 
+Respond: user:mike bot:harry ip: (~childhood) 13   yes ==> I don't know what to say.  When:Sep22'16-22:48:05 Why:~control.9.0   F:0 
+Respond: user:mike bot:harry ip: (~childhood) 14   lol ==> I don't know what to say.  When:Sep22'16-22:48:08 Why:~control.9.0   F:0 

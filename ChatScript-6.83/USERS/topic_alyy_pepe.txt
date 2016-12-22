@@ -1,0 +1,43 @@
+USERS/topic_alyy_pepe.txt
+jul2116 Oct03'16-11:13:51 Oct03'16-11:16:21 0 |
+1 11 0 DY 0 24 24 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions #pending
+~introductions + 2 tIDol diaa b 0 0 
+#`end topics
+$cs_randindex=655
+$cs_bot=Pepe
+$cs_login=alyy
+$cs_token=163583
+$cs_control_main=~control
+$userprompt=alyy: >
+$botprompt=Pepe: 
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ sup?
+ what's your name?
+ pepe the frog?
+ shit
+ yup.
+ you too
+ like shit
+ ?
+ ty. how old are you?
+ how old are you?
+ nah
+#`end user
+ Welcome to ChatScript.
+ Don't know.
+ My name is Pepe.
+ I'm sorry. I don't know.
+ Have you been here before?
+ Nice to see you again!
+ How are you doing?
+ That's sad. My day was sad too... But you know what?
+ My day's better now that you have come along!
+ You're welcome.
+ Want to chat?
+ Then press ctrl+c to exit, then. Thank you for your time!
+#`end chatbot

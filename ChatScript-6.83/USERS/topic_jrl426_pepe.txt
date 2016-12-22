@@ -1,0 +1,43 @@
+USERS/topic_jrl426_pepe.txt
+jul2116 Nov21'16-16:37:32 Nov21'16-16:38:19 0 |
+1 10 ~education ZMb &RnpB  DY 0 31 31 0 # start, input#, rejoindertopic,rejoinderid (a: UNCLE_GREGORIO ( ~yes ) You should meet my Uncle Gregorio. He taught me how to love education. He said, "...   ),checksum
+~introductions ~education #pending
+~education + 1 &RnpB ia a 0 0 
+~introductions + 2 GA~Ju diaa 9 0 0 
+#`end topics
+$first_time=true
+$botprompt=Pepe: 
+$userprompt=jrl426: >
+$cs_control_main=~control
+$cs_token=163583
+$cs_login=jrl426
+$cs_bot=Pepe
+$cs_randindex=1060
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context ~quibble_not 8 WHYNOT 
+ 
+ no eh why
+ kinda sleepy, you?
+ what
+ awww
+ what did you say
+ why
+ why not
+ she me
+ no
+#`end user
+ Hello!
+ Have you talked to me before?
+ How are you today?
+ That's sad. My day was sad too... But you know what?
+ My day's better now that you have come along!
+ Fine.
+ I'm not sure I can be any clearer.
+ The usual reasons.
+ Because.
+ So are you here to chat?
+ Don't you think education is just amazing!
+#`end chatbot

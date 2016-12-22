@@ -1,0 +1,13 @@
+﻿Start: user:ben bot:pepe ip: rand:1124 (~introductions) 0 ==> Welcome to ChatScript.  When:Oct03'16-13:49:31 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Oct03'16-11:33:52 0:Oct03'16-13:49:31 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:ben bot:pepe ip: (~introductions) 1   Hi ==> Have you been here before?  When:Oct03'16-13:49:33 Why:~introductions.2.0.~control.9.0   F:16 
+Respond: user:ben bot:pepe ip: (~introductions) 2   I don't know ==> How are you doing?  When:Oct03'16-13:49:40 Why:~introductions.3.0.~control.9.0   F:0 
+Respond: user:ben bot:pepe ip: (~introductions) 3   Hello ==> So are you here to chat!  When:Oct03'16-13:49:46 Why:~introductions.4.0.~control.9.0   F:0 
+Respond: user:ben bot:pepe ip: (~introductions) 4   NO! ==> Then press ctrl+c to exit, then. Thank you for your time!  When:Oct03'16-13:49:51 Why:~introductions.4.1   F:0 
+Respond: user:ben bot:pepe ip: (~childhood) 5   No ==> Did you run away from home when you were little?  When:Oct03'16-13:49:54 Why:~childhood.0.0.~control.9.0   F:0 
+Respond: user:ben bot:pepe ip: (~childhood) 6   No ==> You should try it some time. Travel broadens the mind.  When:Oct03'16-13:49:56 Why:~childhood.0.2   F:0 
+Respond: user:ben bot:pepe ip: (~childhood) 7   No ==> I ran away once, but my parents found me and dragged me back.  When:Oct03'16-13:49:57 Why:~childhood.1.0=RUNAWAY.~control.9.0   F:0 
+Respond: user:ben bot:pepe ip: (~childhood) 8   No ==> Why are you disagreeing with me?  When:Oct03'16-13:49:57 Why:~honest_response.1.0.~quibble_all.12.0   F:0 
+Respond: user:ben bot:pepe ip: (~childhood) 9   ISorry ==> Fine.  When:Oct03'16-13:50:09 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:15 
+Respond: user:ben bot:pepe ip: (~introductions) 10   How are you? ==> I'm good!  When:Oct03'16-13:50:16 Why:~introductions.5.0.~control.9.0   F:0 
+Respond: user:ben bot:pepe ip: (~family) 11   Really? ==> I have a very wonderful family.  When:Oct03'16-13:50:20 Why:~family.0.0.~control.9.0   F:0 
+Respond: user:ben bot:pepe ip: (~self) 12   What is family? ==> I'm not sure if you know, but I actually love drawing!  When:Oct03'16-13:50:25 Why:~self.0.0.~control.9.0   F:15 

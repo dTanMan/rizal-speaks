@@ -1,0 +1,307 @@
+﻿Hi.Welcome to ChatScript.Have you been here before?Welcome to ChatScript.Have you been here before?ChatScript Version 6.83  compiled Sep 11 2016 16:00:15
+Did you run away from home when you were little?ChatScript Version 6.83  compiled Sep 11 2016 16:00:15
+ChatScript Version 6.83  compiled Sep 11 2016 16:00:15
+
+WARNING SUMMARY: 
+  line 0 of simplecontrol.top: Missing file RAWDATA/Pepe/simplecontrol.top
+
+1 topic files were missing.
+0 function warnings, 0 spelling warnings, 0 case warnings, 0 substitution warnings,  and 1 more serious warnings
+    
+
+Finished compile
+
+Server ChatScript Release Version 6.83  32 bit Windows compiled Sep 11 2016 16:00:15 host=0.0.0.0
+Params:   dict:1048575 fact:800000 text:70000kb hash:50000 
+          buffer:22x80kb cache:1x5000kb userfacts:100
+Build0:  dict=67737  fact=130332  stext=1145728 Sep11'16-15:31:14 0
+Build1:  dict=1  fact=0  stext=300 Oct02'16-15:34:35 Pepe
+Used 50MB: dict 269,113 (21529kb) hashdepth 18/1 fact 216,041 (8641kb) text 13969kb
+           buffer (1760kb) cache (5000kb) POS: 918 (29kb)
+Free 79MB: dict 779,462 hash 922 fact 583,959 text 56,030KB 
+
+    *** Server WIDE OPEN to :command use.
+    Postgres enabled.
+    Mongo enabled.
+No such bot.No such bot.ChatScript Version 6.83  compiled Sep 11 2016 16:00:15
+ChatScript Version 6.83  compiled Sep 11 2016 16:00:15
+
+WARNING SUMMARY: 
+  line 3 of : Undefined set or topic ~keywordless line 63 in simplecontrol.top
+
+  line 4 of : Undefined set or topic ~quibble_all line 71 in simplecontrol.top
+
+0 function warnings, 1 spelling warnings, 0 case warnings, 0 substitution warnings,  and 2 more serious warnings
+    
+
+Finished compile
+
+Server ChatScript Release Version 6.83  32 bit Windows compiled Sep 11 2016 16:00:15 host=0.0.0.0
+Params:   dict:1048575 fact:800000 text:70000kb hash:50000 
+          buffer:22x80kb cache:1x5000kb userfacts:100
+Build0:  dict=67737  fact=130332  stext=1145728 Sep11'16-15:31:14 0
+Build1:  dict=6  fact=1  stext=3036 Oct02'16-15:35:53 Pepe
+Used 50MB: dict 269,118 (21529kb) hashdepth 18/1 fact 216,042 (8641kb) text 13972kb
+           buffer (1760kb) cache (5000kb) POS: 918 (29kb)
+Free 79MB: dict 779,457 hash 922 fact 583,958 text 56,027KB 
+
+    *** Server WIDE OPEN to :command use.
+    Postgres enabled.
+    Mongo enabled.
+Hello, talk to me!I don't know what to say.ChatScript Version 6.83  compiled Sep 11 2016 16:00:15
+
+ ERROR SUMMARY: 
+  line 6 of tutorial.top: 
+RULE-3 Missing pattern for responder
+r
+1 errors - press Enter to quit. Then fix and try again.
+
+
+Finished compile
+
+Server ChatScript Release Version 6.83  32 bit Windows compiled Sep 11 2016 16:00:15 host=0.0.0.0
+Params:   dict:1048575 fact:800000 text:70000kb hash:50000 
+          buffer:22x80kb cache:1x5000kb userfacts:100
+Build0:  dict=67737  fact=130332  stext=1145728 Sep11'16-15:31:14 0
+Build1:  dict=0  fact=0  stext=96  
+Used 50MB: dict 269,112 (21528kb) hashdepth 18/1 fact 216,041 (8641kb) text 13969kb
+           buffer (1760kb) cache (5000kb) POS: 918 (29kb)
+Free 79MB: dict 779,463 hash 922 fact 583,959 text 56,030KB 
+
+    *** Server WIDE OPEN to :command use.
+    Postgres enabled.
+    Mongo enabled.
+No such bot.ChatScript Version 6.83  compiled Sep 11 2016 16:00:15
+
+ ERROR SUMMARY: 
+  line 6 of tutorial.top: 
+RULE-3 Missing pattern for responder
+r
+1 errors - press Enter to quit. Then fix and try again.
+
+
+Finished compile
+
+Server ChatScript Release Version 6.83  32 bit Windows compiled Sep 11 2016 16:00:15 host=0.0.0.0
+Params:   dict:1048575 fact:800000 text:70000kb hash:50000 
+          buffer:22x80kb cache:1x5000kb userfacts:100
+Build0:  dict=67737  fact=130332  stext=1145728 Sep11'16-15:31:14 0
+Build1:  dict=0  fact=0  stext=96  
+Used 50MB: dict 269,112 (21528kb) hashdepth 18/1 fact 216,041 (8641kb) text 13969kb
+           buffer (1760kb) cache (5000kb) POS: 918 (29kb)
+Free 79MB: dict 779,463 hash 922 fact 583,959 text 56,030KB 
+
+    *** Server WIDE OPEN to :command use.
+    Postgres enabled.
+    Mongo enabled.
+No such bot.No such bot.ChatScript Version 6.83  compiled Sep 11 2016 16:00:15
+
+ ERROR SUMMARY: 
+  line 6 of tutorial.top: 
+RULE-3 Missing pattern for responder
+r
+1 errors - press Enter to quit. Then fix and try again.
+
+
+Finished compile
+
+Server ChatScript Release Version 6.83  32 bit Windows compiled Sep 11 2016 16:00:15 host=0.0.0.0
+Params:   dict:1048575 fact:800000 text:70000kb hash:50000 
+          buffer:22x80kb cache:1x5000kb userfacts:100
+Build0:  dict=67737  fact=130332  stext=1145728 Sep11'16-15:31:14 0
+Build1:  dict=0  fact=0  stext=96  
+Used 50MB: dict 269,112 (21528kb) hashdepth 18/1 fact 216,041 (8641kb) text 13969kb
+           buffer (1760kb) cache (5000kb) POS: 918 (29kb)
+Free 79MB: dict 779,463 hash 922 fact 583,959 text 56,030KB 
+
+    *** Server WIDE OPEN to :command use.
+    Postgres enabled.
+    Mongo enabled.
+No such bot.ChatScript Version 6.83  compiled Sep 11 2016 16:00:15
+ChatScript Version 6.83  compiled Sep 11 2016 16:00:15
+
+ ERROR SUMMARY: 
+  line 6 of tutorial.top: 
+RULE-3 Missing pattern for responder
+r
+1 errors - press Enter to quit. Then fix and try again.
+
+
+Finished compile
+
+Server ChatScript Release Version 6.83  32 bit Windows compiled Sep 11 2016 16:00:15 host=0.0.0.0
+Params:   dict:1048575 fact:800000 text:70000kb hash:50000 
+          buffer:22x80kb cache:1x5000kb userfacts:100
+Build0:  dict=67737  fact=130332  stext=1145728 Sep11'16-15:31:14 0
+Build1:  dict=0  fact=0  stext=96  
+Used 50MB: dict 269,112 (21528kb) hashdepth 18/1 fact 216,041 (8641kb) text 13969kb
+           buffer (1760kb) cache (5000kb) POS: 918 (29kb)
+Free 79MB: dict 779,463 hash 922 fact 583,959 text 56,030KB 
+
+    *** Server WIDE OPEN to :command use.
+    Postgres enabled.
+    Mongo enabled.
+No such bot.No such bot.No such bot.No such bot.No such bot.No such bot.No such bot.No such bot.ChatScript Version 6.83  compiled Sep 11 2016 16:00:15
+ChatScript Version 6.83  compiled Sep 11 2016 16:00:15
+
+WARNING SUMMARY: 
+  line 3 of : Undefined set or topic ~keywordless line 63 in simplecontrol.top
+
+  line 4 of : Undefined set or topic ~quibble_all line 71 in simplecontrol.top
+
+0 function warnings, 1 spelling warnings, 0 case warnings, 0 substitution warnings,  and 2 more serious warnings
+    
+
+Finished compile
+
+Server ChatScript Release Version 6.83  32 bit Windows compiled Sep 11 2016 16:00:15 host=0.0.0.0
+Params:   dict:1048575 fact:800000 text:70000kb hash:50000 
+          buffer:22x80kb cache:1x5000kb userfacts:100
+Build0:  dict=67737  fact=130332  stext=1145728 Sep11'16-15:31:14 0
+Build1:  dict=6  fact=1  stext=3036 Oct02'16-15:39:18 Pepe
+Used 50MB: dict 269,118 (21529kb) hashdepth 18/1 fact 216,042 (8641kb) text 13972kb
+           buffer (1760kb) cache (5000kb) POS: 918 (29kb)
+Free 79MB: dict 779,457 hash 922 fact 583,958 text 56,027KB 
+
+    *** Server WIDE OPEN to :command use.
+    Postgres enabled.
+    Mongo enabled.
+I don't know what to say.I don't know what to say.Hello, talk to me!ChatScript Version 6.83  compiled Sep 11 2016 16:00:15
+
+WARNING SUMMARY: 
+  line 3 of : Undefined set or topic ~keywordless line 63 in simplecontrol.top
+
+  line 4 of : Undefined set or topic ~quibble_all line 71 in simplecontrol.top
+
+0 function warnings, 1 spelling warnings, 0 case warnings, 0 substitution warnings,  and 2 more serious warnings
+    
+
+Finished compile
+
+Server ChatScript Release Version 6.83  32 bit Windows compiled Sep 11 2016 16:00:15 host=0.0.0.0
+Params:   dict:1048575 fact:800000 text:70000kb hash:50000 
+          buffer:22x80kb cache:1x5000kb userfacts:100
+Build0:  dict=67737  fact=130332  stext=1145728 Sep11'16-15:31:14 0
+Build1:  dict=6  fact=1  stext=3036 Oct02'16-15:39:35 Pepe
+Used 50MB: dict 269,118 (21529kb) hashdepth 18/1 fact 216,042 (8641kb) text 13972kb
+           buffer (1760kb) cache (5000kb) POS: 918 (29kb)
+Free 79MB: dict 779,457 hash 922 fact 583,958 text 56,027KB 
+
+    *** Server WIDE OPEN to :command use.
+    Postgres enabled.
+    Mongo enabled.
+I don't know what to say.I don't know what to say.I don't know what to say.Hello, talk to me!I don't know what to say.Hello, talk to me!ChatScript Version 6.83  compiled Sep 11 2016 16:00:15
+
+ ERROR SUMMARY: 
+  line 6 of tutorial.top: 
+RULE-3 Missing pattern for responder
+r
+1 errors - press Enter to quit. Then fix and try again.
+
+
+Finished compile
+
+Server ChatScript Release Version 6.83  32 bit Windows compiled Sep 11 2016 16:00:15 host=0.0.0.0
+Params:   dict:1048575 fact:800000 text:70000kb hash:50000 
+          buffer:22x80kb cache:1x5000kb userfacts:100
+Build0:  dict=67737  fact=130332  stext=1145728 Sep11'16-15:31:14 0
+Build1:  dict=0  fact=0  stext=96  
+Used 50MB: dict 269,112 (21528kb) hashdepth 18/1 fact 216,041 (8641kb) text 13969kb
+           buffer (1760kb) cache (5000kb) POS: 918 (29kb)
+Free 79MB: dict 779,463 hash 922 fact 583,959 text 56,030KB 
+
+    *** Server WIDE OPEN to :command use.
+    Postgres enabled.
+    Mongo enabled.
+No such bot.No such bot.No such bot.No such bot.ChatScript Version 6.83  compiled Sep 11 2016 16:00:15
+
+ ERROR SUMMARY: 
+  line 6 of tutorial.top: 
+RULE-3 Missing pattern for responder
+r
+1 errors - press Enter to quit. Then fix and try again.
+
+
+Finished compile
+
+Server ChatScript Release Version 6.83  32 bit Windows compiled Sep 11 2016 16:00:15 host=0.0.0.0
+Params:   dict:1048575 fact:800000 text:70000kb hash:50000 
+          buffer:22x80kb cache:1x5000kb userfacts:100
+Build0:  dict=67737  fact=130332  stext=1145728 Sep11'16-15:31:14 0
+Build1:  dict=0  fact=0  stext=96  
+Used 50MB: dict 269,112 (21528kb) hashdepth 18/1 fact 216,041 (8641kb) text 13969kb
+           buffer (1760kb) cache (5000kb) POS: 918 (29kb)
+Free 79MB: dict 779,463 hash 922 fact 583,959 text 56,030KB 
+
+    *** Server WIDE OPEN to :command use.
+    Postgres enabled.
+    Mongo enabled.
+No such bot.ChatScript Version 6.83  compiled Sep 11 2016 16:00:15
+
+WARNING SUMMARY: 
+0 function warnings, 2 spelling warnings, 0 case warnings, 0 substitution warnings,  and 0 more serious warnings
+    
+
+Finished compile
+
+Server ChatScript Release Version 6.83  32 bit Windows compiled Sep 11 2016 16:00:15 host=0.0.0.0
+Params:   dict:1048575 fact:800000 text:70000kb hash:50000 
+          buffer:22x80kb cache:1x5000kb userfacts:100
+Build0:  dict=67737  fact=130332  stext=1145728 Sep11'16-15:31:14 0
+Build1:  dict=167  fact=15  stext=210844 Oct02'16-15:42:22 harry
+Used 51MB: dict 269,279 (21542kb) hashdepth 18/1 fact 216,056 (8642kb) text 14180kb
+           buffer (1760kb) cache (5000kb) POS: 918 (29kb)
+Free 79MB: dict 779,296 hash 922 fact 583,944 text 55,819KB 
+
+    *** Server WIDE OPEN to :command use.
+    Postgres enabled.
+    Mongo enabled.
+Have you been here before?Did you run away from home when you were little?Welcome to ChatScript.ChatScript Version 6.83  compiled Sep 11 2016 16:00:15
+Have you been here before?Welcome to ChatScript.ChatScript Version 6.83  compiled Sep 11 2016 16:00:15
+
+ ERROR SUMMARY: 
+  line 6 of tutorial.top: 
+RULE-3 Missing pattern for responder
+r
+1 errors - press Enter to quit. Then fix and try again.
+
+
+Finished compile
+
+Server ChatScript Release Version 6.83  32 bit Windows compiled Sep 11 2016 16:00:15 host=0.0.0.0
+Params:   dict:1048575 fact:800000 text:70000kb hash:50000 
+          buffer:22x80kb cache:1x5000kb userfacts:100
+Build0:  dict=67737  fact=130332  stext=1145728 Sep11'16-15:31:14 0
+Build1:  dict=0  fact=0  stext=96  
+Used 50MB: dict 269,112 (21528kb) hashdepth 18/1 fact 216,041 (8641kb) text 13969kb
+           buffer (1760kb) cache (5000kb) POS: 918 (29kb)
+Free 79MB: dict 779,463 hash 922 fact 583,959 text 56,030KB 
+
+    *** Server WIDE OPEN to :command use.
+    Postgres enabled.
+    Mongo enabled.
+No such bot.ChatScript Version 6.83  compiled Sep 11 2016 16:00:15
+
+WARNING SUMMARY: 
+  line 3 of : Undefined set or topic ~keywordless line 63 in simplecontrol.top
+
+  line 4 of : Undefined set or topic ~quibble_all line 71 in simplecontrol.top
+
+0 function warnings, 1 spelling warnings, 0 case warnings, 0 substitution warnings,  and 2 more serious warnings
+    
+
+Finished compile
+
+Server ChatScript Release Version 6.83  32 bit Windows compiled Sep 11 2016 16:00:15 host=0.0.0.0
+Params:   dict:1048575 fact:800000 text:70000kb hash:50000 
+          buffer:22x80kb cache:1x5000kb userfacts:100
+Build0:  dict=67737  fact=130332  stext=1145728 Sep11'16-15:31:14 0
+Build1:  dict=6  fact=1  stext=3036 Oct02'16-15:43:28 Pepe
+Used 50MB: dict 269,118 (21529kb) hashdepth 18/1 fact 216,042 (8641kb) text 13972kb
+           buffer (1760kb) cache (5000kb) POS: 918 (29kb)
+Free 79MB: dict 779,457 hash 922 fact 583,958 text 56,027KB 
+
+    *** Server WIDE OPEN to :command use.
+    Postgres enabled.
+    Mongo enabled.
+Hello, talk to me!I don't know what to say.

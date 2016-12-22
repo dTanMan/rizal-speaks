@@ -1,0 +1,5 @@
+﻿***127.0.0.1 client presocket failed Oct 02 14:14:19 2016
+***127.0.0.1 client presocket failed Oct 02 14:14:24 2016
+***127.0.0.1 client presocket failed Oct 02 14:14:28 2016
+***127.0.0.1 client presocket failed Oct 02 14:14:35 2016
+***127.0.0.1 client presocket failed Oct 02 14:15:16 2016

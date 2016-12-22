@@ -1,0 +1,21 @@
+USERS/topic_potato_pepe.txt
+jul2116 Oct01'16-22:29:57 Oct11'16-10:09:56 0 |
+1 0 0 DY 0 24 24 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions #pending
+#`end topics
+$first_time=true
+$botprompt=Pepe: 
+$userprompt=potato: >
+$cs_control_main=~control
+$cs_token=163583
+$cs_login=potato
+$cs_bot=Pepe
+$cs_randindex=688
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+#`end user
+ Nihao!
+#`end chatbot

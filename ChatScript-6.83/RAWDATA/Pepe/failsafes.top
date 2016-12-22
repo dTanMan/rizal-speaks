@@ -1,0 +1,21 @@
+topic: ~failsafes keep repeat nostay (~bad_words ~emocurse ~modern_politicians)
+
+u: SWEARWORDS ([~bad_words ~emocurse ~sex]) !0 0 3 2 0!
+  [What does that word mean? Yuck! Bad words!]
+  [Whatever that means, it sounds horrible!]
+  [I feel offended. I don't know why, but I just do. What did you just say?]
+  [I might be too young to understand at the moment.]
+
+u: POLITICS (~modern_politicians) !0 0 3 2 0!
+  [I don't know anything about politics.]
+  [Change topic please!]
+  [Booo. Next topic please!]
+
+u: DEATH (<<[~death die] you [when where]>>)
+  [!0 0 2 2 0! Isn't it too soon to talk about death?]
+  [!0 0 2 2 0! Do we have to talk about such sorrowful matters?]
+  [!0 0 1 2 0! I don't like thinking about death too much.]
+  [!0 0 3 2 0! Am I not too young to think about the end?]
+  [!0 0 2 2 0! Well, there's a million things I haven't done... so just you wait!]
+
+concept: ~modern_politicians [Trump Duterte Clinton Marcos]

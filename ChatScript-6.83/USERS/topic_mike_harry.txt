@@ -1,0 +1,50 @@
+USERS/topic_mike_harry.txt
+jul2116 Sep22'16-22:47:02 Sep22'16-22:48:08 0 |
+1 14 0 DY 0 22 22 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions ~childhood #pending
+~childhood + 2 l7ijH piaa c 0 0 
+~introductions + 1 8H9S3Js*Ok3 da 2 0 0 
+#`end topics
+$botprompt=HARRY: 
+$userprompt=mike: >
+$cs_control_main=~control
+$cs_token=163583
+$cs_login=mike
+$cs_bot=Harry
+$cs_randindex=3960
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context ~childhood 11 SCARE 
+ what's your name
+ hello harry
+ yes
+ yes
+ indeed!
+ yes
+ no
+ i see
+ what happened next
+ snakes
+ what are you afraid of
+ what else
+ yes
+ lol
+#`end user
+ Welcome to ChatScript.
+ My name is Harry.
+ Have you been here before?
+ Are you sure?
+ You seem really positive.
+ Are we actually agreeing?
+ Did you run away from home when you were little?
+ You should try it some time. Travel broadens the mind.
+ I ran away once, but my parents found me and dragged me back.
+ What scared you as a kid?
+ You and Indiana Jones. Snakes would rather slither off than attack you. Just don't surprise them.
+ I was scared of machines. I had vivid dreams of the Terminator robots.
+ Did you have a happy childhood?
+ I don't know what to say.
+ I don't know what to say.
+#`end chatbot
