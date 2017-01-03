@@ -15,7 +15,7 @@ public class FaceFactory {
 		display.add(1, face);
 		display.add(2, mouth);
 		display.add(3, eyes);
-		display.add(4, "null");
+		display.add(4, "-");
 	}
 
 	@Override
@@ -32,7 +32,7 @@ public class FaceFactory {
 		if(message.charAt(0) == '!'){
 			String[] draw = message.substring(1, message.substring(1).indexOf('!')+1).split(" ");
 			for (int i = 0; i < draw.length ; i++){
-				if(!draw[i].equals("null")){
+				if(!draw[i].equals("-")){
 					System.out.println("draw[" + i + "] = "+ draw[i]);
 					display.set(i, draw[i]);
 				}
@@ -65,15 +65,24 @@ public class FaceFactory {
 		othersPanel.setBounds(p.getBounds());
 		othersPanel.setOpaque(false);
 		
+		System.out.println("~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~");
+		System.out.println("Files should be at ");
+		System.out.println(Main.class.getResource("body_"+display.get(0)+".png"));
+		System.out.println(Main.class.getResource("face_"+display.get(1)+".png"));
+		System.out.println(Main.class.getResource("mouth_"+display.get(2)+".png"));
+		System.out.println(Main.class.getResource("eyes_"+display.get(3)+".png"));
+		System.out.println(Main.class.getResource("other_"+display.get(4)+".png"));
+		System.out.println("~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~");
+		
 		ImageIcon bodyPic = new ImageIcon(Main.class.getResource("body_"+display.get(0)+".png"));
 		JLabel body = new JLabel("", bodyPic, JLabel.CENTER);
 		
 		bodyPanel.add(body);
 		
-		ImageIcon facePic = new ImageIcon(Main.class.getResource("face_"+display.get(1)+".png"));
-		JLabel face = new JLabel("", facePic, JLabel.CENTER);
+		ImageIcon headPic = new ImageIcon(Main.class.getResource("head_"+display.get(1)+".png"));
+		JLabel head = new JLabel("", headPic, JLabel.CENTER);
 		
-		facePanel.add(face);
+		facePanel.add(head);
 		
 		ImageIcon mouthPic = new ImageIcon(Main.class.getResource("mouth_"+display.get(2)+".png"));
 		JLabel mouth = new JLabel("", mouthPic, JLabel.CENTER);
@@ -85,7 +94,7 @@ public class FaceFactory {
 		
 		eyesPanel.add(eyes);
 		
-		if(!display.get(4).equals("null")){
+		if(!display.get(4).equals("-")){
 			ImageIcon othersPic = new ImageIcon(Main.class.getResource("others_"+display.get(4)+".png"));
 			JLabel others = new JLabel("", othersPic, JLabel.CENTER);
 			

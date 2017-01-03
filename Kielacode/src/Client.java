@@ -14,8 +14,8 @@ public class Client {
 	public Client(){
 		this.server = "localhost";
 		this.port = 1024;
-		this.userId = "Sample";
-		this.botname = "Harry";
+		this.userId = "Andre";
+		this.botname = "Pepe";
 		
 	}
 	

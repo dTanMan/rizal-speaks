@@ -26,6 +26,7 @@ import javax.swing.KeyStroke;
 import javax.imageio.ImageIO;
 import javax.swing.AbstractAction;
 import javax.swing.Action;
+import javax.swing.BorderFactory;
 import javax.swing.ImageIcon;
 import javax.swing.JButton;
 import java.awt.Font;
@@ -98,28 +99,31 @@ public class Main extends JFrame {
 		
 		JLabel lblPepeRizal = new JLabel("Pepe Rizal");
 		lblPepeRizal.setBounds(0, 0, maxWidth/2, menuPanel.getHeight());
-		lblPepeRizal.setFont(new Font("Segoe UI Light", Font.PLAIN, (int) Math.round(menuPanel.getHeight()*0.8)));
+		lblPepeRizal.setFont(new Font("Segoe UI", Font.PLAIN, (int) Math.round(menuPanel.getHeight()*0.8)));
 		menuPanel.add(lblPepeRizal);
 		
 		
 		ClassLoader cl = this.getClass().getClassLoader();
 		JLayeredPane facePanel = new JLayeredPane();
-		facePanel.setBounds( startX, menuPanel.getY() + menuPanel.getHeight() + padding, maxWidth,(int) Math.round(maxHeight*0.7) );
+		facePanel.setBounds( startX+100, menuPanel.getY() + menuPanel.getHeight() + padding, maxWidth,(int) Math.round(maxHeight*0.7) );
 		contentPane.add(f.display(facePanel));
 		
 		
 		JTextArea response = new JTextArea();
+		response.setLineWrap(true);
+		response.setWrapStyleWord(true);
 		response.setText("This is a sample text.");
 		response.setBackground(contentPane.getBackground());
-		response.setBounds( startX, facePanel.getY() + facePanel.getHeight() + padding, maxWidth, (int) Math.round(maxHeight*0.08));
-		response.setFont(new Font("Segoe UI Light", Font.PLAIN, (int) Math.round(response.getHeight()*0.25)));
+		response.setBounds( startX, facePanel.getY()+100, maxWidth/2, facePanel.getHeight() - 100);
+		response.setFont(new Font("Segoe UI Light", Font.PLAIN, (int) Math.round(response.getWidth()*0.05)));
+		response.setBorder(BorderFactory.createEmptyBorder(0,10,10,10));
 		contentPane.add(response);
 		
 		
 		JTextField input = new JTextField();
 		input.setText("This is a sample text.");
-		input.setFont(new Font("Segoe UI Light", Font.PLAIN, (int) Math.round(response.getHeight()*0.25)));
-		input.setBounds( startX, response.getY() + response.getHeight() + padding, (int) Math.round(maxWidth*0.9), (int) Math.round(maxHeight*0.08));
+		input.setBounds( startX, facePanel.getY() + facePanel.getHeight() + padding, (int) Math.round(maxWidth*0.9), (int) Math.round(maxHeight*0.08));
+		input.setFont(new Font("Segoe UI Light", Font.PLAIN, (int) Math.round(input.getHeight()*0.35)));
 		contentPane.add(input);
 		
 		JButton btnVoice = new JButton("Voice");
