@@ -8,6 +8,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 import java.net.Socket;
+import java.net.ConnectException;
 import java.util.UUID;
 
 import javax.swing.JFrame;
@@ -52,6 +53,7 @@ public class Main extends JFrame {
 	private JLayeredPane facePanel;
 	private Client c;
 	private static boolean replyInit;
+	private JPanel chatPanel;
 	JTextArea responseTextArea, sentTextArea;
 	JPanel responsePanel, sentPanel;
 	Timer timer;
@@ -132,11 +134,12 @@ public class Main extends JFrame {
 		
 		ClassLoader cl = this.getClass().getClassLoader();
 		facePanel = new JLayeredPane();
-		facePanel.setBounds( startX+100, menuPanel.getY() + menuPanel.getHeight() + padding, maxWidth,(int) Math.round(maxHeight*0.7) );
+		facePanel.setBackground(Color.BLACK);
+		facePanel.setBounds( startX+ width(contentPane, 5), menuPanel.getY() + menuPanel.getHeight() + padding, maxWidth,(int) Math.round(maxHeight*0.7) );
 		r = new Response(facePanel);
 		contentPane.add(r.getFacePanel());
 		
-		JPanel chatPanel = new JPanel();
+		chatPanel = new JPanel();
 		chatPanel.setBackground(colors.bg);
 		chatPanel.setLayout(null);
 		chatPanel.setBounds( startX, menuPanel.getY()+menuPanel.getHeight()+padding, maxWidth/2, (int) Math.round(maxHeight*0.7));
@@ -145,9 +148,9 @@ public class Main extends JFrame {
 		sentPanel = new JPanel();
 		sentPanel.setLayout(new FlowLayout());
 		sentPanel.setBackground(colors.primary);
-		sentPanel.setBorder(new EmptyBorder(5, 5, 5, 5));
-		sentPanel.setBounds(10, 10, (int)(chatPanel.getWidth()*0.8), 10);
-		
+		sentPanel.setBorder(new EmptyBorder(height(chatPanel, 4), width(chatPanel, 4), height(chatPanel, 4), width(chatPanel, 4)));
+		sentPanel.setBounds(height(chatPanel, 8), height(chatPanel, 8), width(chatPanel, 80), height(chatPanel, 8));
+
 		sentTextArea = new JTextArea();
 		sentTextArea.setFont(fonts.body.deriveFont(Font.PLAIN, (int) Math.round(menuPanel.getHeight()*0.6)));
 		sentTextArea.setLineWrap(true);
@@ -156,30 +159,29 @@ public class Main extends JFrame {
 		sentTextArea.setText("This is a sample text. trolol. I'm cute hehe. Love is a word  I can't describe.\nI'm amazing.");
 		sentTextArea.setSize((int)(sentPanel.getWidth()*0.9), 1);
 		sentTextArea.setSize(sentTextArea.getPreferredSize().width, sentTextArea.getPreferredSize().height + 10);
-		sentPanel.setBounds(30, 30, (int)(chatPanel.getWidth()*0.8), sentTextArea.getSize().height + 10);
+		System.out.println("5% = "+ (chatPanel.getHeight()*0.05));
+		sentPanel.setBounds(height(chatPanel, 5), height(chatPanel, 5), width(chatPanel, 80), sentTextArea.getSize().height + height(chatPanel, 8));
 		sentPanel.add(sentTextArea);
 		chatPanel.add(sentPanel);
 
 		responsePanel = new JPanel();
 		responsePanel.setLayout(new FlowLayout());
 		responsePanel.setBackground(colors.highlight);
-		responsePanel.setBorder(new EmptyBorder(5, 5, 5, 5));
+		responsePanel.setBorder(new EmptyBorder(height(chatPanel, 4), width(chatPanel, 4), height(chatPanel, 4), width(chatPanel, 4)));
 		responsePanel.setBounds(10, 10, (int)(chatPanel.getWidth()*0.8), 10);
 		
 		responseTextArea = new JTextArea();
 		responseTextArea.setFont(fonts.body.deriveFont(Font.PLAIN, (int) Math.round(menuPanel.getHeight()*0.6)));
+		responseTextArea.setForeground(Color.WHITE);
 		responseTextArea.setLineWrap(true);
 		responseTextArea.setWrapStyleWord(true);
 		responseTextArea.setBackground(colors.highlight);
 		responseTextArea.setText("This is a sample text. trolol. I'm cute hehe. Love is a word  I can't describe.\nI'm amazing.");
 		responseTextArea.setSize((int)(sentPanel.getWidth()*0.9), 1);
 		responseTextArea.setSize(responseTextArea.getPreferredSize().width, responseTextArea.getPreferredSize().height + 10);
-		responsePanel.setBounds((int) (chatPanel.getWidth() - (chatPanel.getWidth()*0.8 + 30)), (sentPanel.getY() +sentPanel.getHeight() + 30), (int)(chatPanel.getWidth()*0.8), responseTextArea.getSize().height +10);
+		responsePanel.setBounds((int) (chatPanel.getWidth() - (chatPanel.getWidth()*0.8 + 30)), (sentPanel.getY() + sentPanel.getHeight() + height(chatPanel, 8)), width(chatPanel, 80), responseTextArea.getSize().height + height(chatPanel, 8));
 		responsePanel.add(responseTextArea);
 		chatPanel.add(responsePanel);
-		
-		
-		
 		
 		JTextField input = new JTextField();
 		input.addMouseListener(new MouseAdapter() {
@@ -191,6 +193,8 @@ public class Main extends JFrame {
 				}
 			}
 		});
+
+
 		input.setText("Type a reply...");
 		input.setBackground(colors.primary);
 		input.setBounds( startX, facePanel.getY() + facePanel.getHeight() + padding, maxWidth, (int) Math.round(maxHeight*0.08));
@@ -238,8 +242,9 @@ public class Main extends JFrame {
 					responseTxt = r.update(received);
 					contentPane.add(r.getFacePanel());
 					repaint();
+				} catch (ConnectException c){
+					responseTxt = "You are not connected to the server. Try again!";
 				} catch (IOException e1) {
-					// TODO Auto-generated catch block
 					e1.printStackTrace();
 					System.out.println("OH NO");
 				}
@@ -296,6 +301,14 @@ public class Main extends JFrame {
 				System.out.println("File not Found at :");
 			}
 		};
+	}
+	private int height(JPanel p, double x){
+	    Double d = p.getHeight() * (x/100);
+		return d.intValue();
+	}
+	private int width(JPanel p, double x){
+        Double d = p.getWidth() * (x/100);
+        return d.intValue();
 	}
 }
 

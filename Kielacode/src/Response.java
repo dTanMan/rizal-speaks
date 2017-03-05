@@ -2,6 +2,7 @@ import javax.swing.ImageIcon;
 import javax.swing.JLabel;
 import javax.swing.JLayeredPane;
 import javax.swing.JPanel;
+import java.awt.*;
 
 public class Response {
 	private String message;
@@ -15,6 +16,7 @@ public class Response {
 	Response(JLayeredPane p){
 		this.p = p;
 		this.face = new Face();
+		p.setBackground(Color.cyan);
 		bodyPanel = new JPanel();
 		bodyPanel.setBounds(p.getBounds());
 		bodyPanel.setOpaque(false);
