@@ -17,6 +17,7 @@ public class Face {
 	}
 	
 	public void update(String faceString){
+		System.out.println("Updating face...");
 		if(faceString.contains(" ")){
 			System.out.println("Compiling face...");
 			String[] draw = faceString.split(" ");
@@ -46,9 +47,21 @@ public class Face {
 			this.body = "0";
 			this.others = "1";
 			break;
-		case "excited":
+		case "shocked":
 			this.eyes = "0";
 			this.mouth = "3";
+			this.body = "0";
+			this.others = "0";
+			break;
+		case "happy":
+			this.eyes = "0";
+			this.mouth = "0";
+			this.body = "0";
+			this.others = "0";
+			break;
+		case "annoyed":
+			this.eyes = "2";
+			this.mouth = "2";
 			this.body = "0";
 			this.others = "0";
 			break;
