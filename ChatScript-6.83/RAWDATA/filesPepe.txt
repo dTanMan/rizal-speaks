@@ -1,4 +1,4 @@
 # underlying conversation system
 RAWDATA/Pepe/
 # quibble ability
-RAWDATA/QUIBBLE/
+RAWDATA/Pepe/QUIBBLE
