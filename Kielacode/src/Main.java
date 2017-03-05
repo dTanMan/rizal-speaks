@@ -48,6 +48,7 @@ import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent; 
 public class Main extends JFrame {
 
+	private FaceFactory ff;
 	private JPanel contentPane;
 	private JLayeredPane facePanel;
 	private Client c;
@@ -61,7 +62,6 @@ public class Main extends JFrame {
 	 */
 	public static void main(String[] args) {
 		replyInit = true;
-		System.out.println("HELLO");
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				try {
@@ -201,14 +201,8 @@ public class Main extends JFrame {
 		timer =  new Timer((1000*60), new ActionListener() {
 		    public void actionPerformed(ActionEvent evt) {
 		    	System.out.println("1 min. has passed. Restarting user...");
-		    		try {
-						c.send(":reset " + c.getBotname());
-					} catch (IOException e) {
-						// TODO Auto-generated catch block
-						e.printStackTrace();
-					}
-		    		c.setUserId(Math.random() + "");
-		    		timer.restart();
+		    	
+		                timer.restart();
 		        }    
 		    });
 		
@@ -263,6 +257,13 @@ public class Main extends JFrame {
 	
 		
 	}
+//	private void changeDisplay(String[] draw) {
+//		
+//		
+//		for (int i = 0; i < draw.length; i++){
+//		}
+//		
+//	}
 	
 	public JLayeredPane getFacePanel(){
 		return facePanel;

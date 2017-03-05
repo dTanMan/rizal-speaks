@@ -60,7 +60,7 @@ public class Response {
 		eyesPanel.add(eyes);
 		
 		bgPic = new ImageIcon(Main.class.getResource("images/bg_"+ face.getBg() +".png"));
-		JLabel bg = new JLabel("", bgPic, JLabel.CENTER);
+		JLabel bg = new JLabel("", eyesPic, JLabel.CENTER);
 		
 		bgPanel.add(bg);
 		othersPic = new ImageIcon(Main.class.getResource("images/others_"+ face.getOthers() +".png"));
@@ -95,13 +95,13 @@ public class Response {
 			face.update(message.substring(1, message.substring(1).indexOf('!')+1));
 //			p.removeAll();
 			try{
-				bodyPic = new ImageIcon(Main.class.getResource("images/body_"+ face.getBody() +".png"));
-				eyesPic = new ImageIcon(Main.class.getResource("images/eyes_"+ face.getEyes() +".png"));
-				mouthPic = new ImageIcon(Main.class.getResource("images/mouth_"+ face.getMouth() +".png"));
+			bodyPic = new ImageIcon(Main.class.getResource("images/body_"+ face.getBody() +".png"));
+			eyesPic = new ImageIcon(Main.class.getResource("images/eyes_"+ face.getEyes() +".png"));
+			mouthPic = new ImageIcon(Main.class.getResource("images/mouth_"+ face.getMouth() +".png"));
 			if(!face.getOthers().equals("0")){
 				othersPic = new ImageIcon(Main.class.getResource("images/others_"+ face.getOthers() +".png"));
 			}
-				bgPic = new ImageIcon(Main.class.getResource("images/bg_"+ face.getBg() +".png"));
+			bgPic = new ImageIcon(Main.class.getResource("images/others_"+ face.getOthers() +".png"));
 			} catch (NullPointerException e){
 				System.out.println("WARNING! Some image files not found. Reverting to default face...");
 				defaultFace();
