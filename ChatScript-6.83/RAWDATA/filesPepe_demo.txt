@@ -1,4 +1,0 @@
-# underlying conversation system
-RAWDATA/HARRY/simplecontrol.top #default bot control
-# quibble ability
-RAWDATA/Pepe/tutorial.top      #tutorial bot data

@@ -2015,3 +2015,20 @@ ServerPre: Andre (Pepe) dick
 Respond: user:Andre bot:Pepe ip:127.0.0.1 () 24 dick  ==> Mama is just as good at money as my Papa! I think she's the only woman in town who can do business! And she trained us to be just as practical!  When:Dec20 16:46:03 16ms 
 ServerPre: Andre (Pepe) andre tan
 Respond: user:Andre bot:Pepe ip:127.0.0.1 () 25 andre tan  ==> !0 0 0 0 0! She believed everyone should be useful and cooperative. She always gave everyone chores, and she'll get really mad if we don't follow!  When:Dec20 16:46:09 16ms 
+Server ChatScript Release Version 6.83  32 bit Windows compiled Sep 11 2016 16:00:15 host=0.0.0.0
+Params:   dict:1048575 fact:800000 text:70000kb hash:50000 
+          buffer:22x80kb cache:1x5000kb userfacts:100
+Build0:  dict=67737  fact=130332  stext=1145728 Sep11'16-15:31:14 0
+Build1:  dict=199  fact=41  stext=227324 Dec20'16-16:44:00 Pepe
+Used 51MB: dict 269,311 (21544kb) hashdepth 18/1 fact 216,082 (8643kb) text 14196kb
+           buffer (1760kb) cache (5000kb) POS: 918 (29kb)
+Free 79MB: dict 779,264 hash 922 fact 583,918 text 55,803KB 
+
+    *** Server WIDE OPEN to :command use.
+    Postgres enabled.
+    Mongo enabled.
+
+
+======== Began server 6.83 compiled Sep 11 2016 16:00:15 on host 0.0.0.0 port 1024 at Sun Mar 05 22:34:33 2017 serverlog:1 userlog: 1
+Server ready - logfile:LOGS/serverlog1024.txt serverLog:1 userLog:1
+
