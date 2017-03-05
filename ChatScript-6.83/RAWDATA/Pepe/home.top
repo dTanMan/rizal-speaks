@@ -1,6 +1,6 @@
-topic: ~HOME keep repeat (house home Calamba)
+topic: ~HOME keep repeat (house home Calamba live)
 
-t: We had a big, big house! Too bad I can't take you there right now.
+t: HOUSE () We had a big, big house! Too bad I can't take you there right now.
   a: (<<{tell} [it house] [about like]>>) !0 0 3 0 0! There's so much to talk about! It's a big house, you see.
 
 t: !0 0 4 0 0! Where do i begin... the Mercado House was two floors of stone and hardwood! I think the walls were made of ipil, and the floor was of narra and red tiles.
@@ -22,6 +22,7 @@ t: !0 0 0 0 0! My favourite part is that it's not just a big big house, it was a
   a: (~yes) ^gambit(~CHILDHOOD)
 
 # --------------------------------------------------------------------------------------- #
+u: (<<where you live>>) ^reuse(HOUSE)
 u: ( (<<how you know>>) {this much information} ) !0 0 0 0 0!
   [I've always liked knowing stuff. It's just fun!]
   [I've always been more curious than others.]

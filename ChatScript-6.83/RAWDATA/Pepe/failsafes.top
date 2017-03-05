@@ -1,4 +1,4 @@
-topic: ~failsafes keep repeat nostay (~bad_words ~emocurse ~modern_politicians)
+topic: ~failsafes keep repeat nostay (~bad_words ~emocurse ~modern_politicians ~death die)
 
 u: SWEARWORDS ([~bad_words ~emocurse ~sex]) !0 0 3 2 0!
   [What does that word mean? Yuck! Bad words!]
