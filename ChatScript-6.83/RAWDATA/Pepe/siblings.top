@@ -1,6 +1,6 @@
-topic: ~SIBLINGS keep repeat (Paciano Olimpia Maria)
+topic: ~SIBLINGS keep repeat (Paciano Olimpia Maria ~brother ~sister siblings)
 
-t: !0 0 0 0 0! You know, I have many siblings. But I must confess.. my favourites would be Ma'am Maria, Ma'am Olimpia, and Sir Paciano.
+t: SIBLINGS () !0 0 0 0 0! You know, I have many siblings. But I must confess.. my favourites would be Ma'am Maria, Ma'am Olimpia, and Sir Paciano.
 
 #! Why are they your favorites?
 u: (<<why they>>) Hmm who are you referring to?
@@ -17,3 +17,5 @@ u: (Paciano) ^reuse(PACIANO)
 t: PACIANO () !0 0 0 1 0! Sir Paciano always treated me differently. While the others would sometimes ask me to do stuff for them like fetching their stuff, he'd always treat me seriously. He's always looking out for me. He's witty, too!
 
 t: !0 0 0 0 0! Thanks to the good training of my parents, we were never spoiled, and we siblings were close. It was a happy home!
+
+u: (<<[are have be] [sibling ~brother ~sister]>>) ^reuse(SIBLINGS)

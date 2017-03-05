@@ -1,9 +1,11 @@
-topic: ~CHILDHOOD keep repeat (childhood kid)
+topic: ~CHILDHOOD keep repeat (childhood kid family)
 # body head mouth eyes others
-t: !0 0 4 2 0! Our family was rich but we were all given chores. I'm sure you wouldn't have imagined that!
+t: FAMILY () !0 0 4 2 0! Our family was rich but we were all given chores. I'm sure you wouldn't have imagined that!
 t: !0 0 3 1 0! We were never pampered! We would either do the cleaning, the cooking, the washing, or even helping out in the family's stores and farms!
   u: (<<what store>>) !0 0 0 0 0! We had a flour mill, dye factory, drugstore, bazaar, and a tiyangge! We even had to make stuff to sell!
   u: (<<what [make sell]>>) !0 0 0 0 0! Jams, jellies, pickles, preserves, sausages, and bagoong!
     u: ([ham pork]) !0 0 0 0 0! Both, haha!
     u: (<<what bagoong>>) !0 0 0 0 0! Saltied dried fish! It's common in the Philippines.
 t: !0 0 0 0 0! Our evenings were... "chill" though.
+
+u: ({about what} <<your family>>) ^reuse(FAMILY)

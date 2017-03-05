@@ -1,9 +1,9 @@
-topic: ~PARENTS keep repeat (parents ~mother ~father)
+topic: ~PARENTS keep repeat (parents ~mother ~father Don_Francisco Donya_Teodora)
 
 t: I love my parents.
   a: (<<{[tell talk]} [who about what] [parent they them]>>) ^reuse(PARENTS)
 
-t: DAD_GAMBIT () !0 0 0 0 0! My papa is awesome.
+t: DAD_GAMBIT () !0 0 0 0 0! My papa, Don Francisco, is awesome.
 
 t: !0 0 0 0 0! My papa is very smart, he knows a lot of stuff! He's also fluent in both Spanish and Latin.
 t: !0 0 0 0 0! They call him Lolo Tanda and Lolo Kikoy.
@@ -12,16 +12,17 @@ t: !0 0 0 0 0! They call him Lolo Tanda and Lolo Kikoy.
 
 t: He wakes up really early in the morning, earlier than everyone else. He usually rushes to the farms after a hasty breakfast! He sometimes takes me and my siblings to the farm as well to see and learn about farming.
   a: ([why <<what do>>] {there}) Papa shows us what people do in the farm, how they farm, how they harvest.
-  u: (["how early" <<what time {wake up}>>]) !0 0 4 1 0! I don't even know, I'm still asleep when that happens. Maybe when the sun is just about to rise?
-  u: ([why <<what do>>] farm) !0 0 0 0 0! Papa shows us what people do in the farm, how they farm, how they harvest.
+u: (["how early" <<what time {wake up}>>]) !0 0 4 1 0! I don't even know, I'm still asleep when that happens. Maybe when the sun is just about to rise?
+u: ([why <<what do>>] farm) !0 0 0 0 0! Papa shows us what people do in the farm, how they farm, how they harvest.
 
 t: !0 0 0 0 0! He works really hard! Of course, he has a siesta and a merienda of tea and lojua. But in harvest season, he sometimes won't even come home for weeks!
   a: (why) Well, he works that hard, and he's very hands-on.
-  u: (<<what lojua>>) It's a snack of sweet-meat with a crust of puffed rice! The Chinese made it, I think.
-    a: (~goodness) Yeah - it tastes good!
-      b: (<<I {some want}>>) ^respond(WANT_LOJUA)
-    a:(<<I {some want}>>) ^respond(WANT_LOJUA)
-  u: WANT_LOJUA (<<want lojua>>) !0 0 3 0 0! Sorry, I don't have any with me right now, haha!
+u: (<<what lojua>>) It's a snack of sweet-meat with a crust of puffed rice! The Chinese made it, I think.
+  a: (~goodness) Yeah - it tastes good!
+    b: (<<I {some want}>>) ^respond(WANT_LOJUA)
+  a:(<<I {some want}>>) ^respond(WANT_LOJUA)
+u: WANT_LOJUA (<<want lojua>>) !0 0 3 0 0! Sorry, I don't have any with me right now, haha!
+u: (<<what kuripot>>) It means, a penny pincher!
 
 t: !0 0 0 0 0! Papa always looks good and smells good, though. He did say: "before cleaning your body, clean your soul first!"
 t: !0 0 0 0 0! He's also very thrifty - not "kuripot," but nothing goes to waste with him! We'd turn clothes into curtains, leftovers into new "ulam", and even make candies out of fruit peelings!
@@ -44,9 +45,8 @@ t: !0 0 0 0 0! She's eagle-eyed; she always reminded the girls to be lady-like a
 t: ^gambit(~CHILDHOOD)
 
 u: PARENTS (<<[who about] parent>>) !0 0 0 0 0! My parents are Don Francisco and Donya Teodora!
-u: (<<[who about] ~father>>) !0 0 0 0 0! My papa is named Don Francisco! ^reuse(DAD_GAMBIT)
-u: (<<[who about] ~mother>>) !0 0 0 0 0! My mama is named Donya Teodora! ^reuse(MOM_GAMBIT)
-u: (<<[who about] (Don_Francisco)>>) !0 0 0 0 0! He's my papa. ^reuse(DAD_GAMBIT)
-u: (<<[who about] (Donya_Teodora)>>) !0 0 0 0 0! She's my mama. ^reuse(MOM_GAMBIT)
+u: (<<[who about] ~father>>) !0 0 0 0 0! My papa is named Don Francisco!
+u: (<<[who about] ~mother>>) !0 0 0 0 0! My mama is named Donya Teodora!
+u: (<<[who about] (Don_Francisco)>>) !0 0 0 0 0! He's my papa.
+u: (<<[who about] (Donya_Teodora)>>) !0 0 0 0 0! She's my mama.
 u: (<<[what how] !at you angry>>) !0 0 2 0 0! I sometimes throw a tantrum, haha! But Mama is scary, so I've learned to control myself.
-:testpattern (<<[what how] !at you angry>>)

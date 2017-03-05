@@ -1,4 +1,4 @@
-topic: ~SELF keep repeat ("tell me about yourself" yourself self like)
+topic: ~SELF keep repeat (yourself self like)
 
 t: !0 0 0 0 0! I believe us, youth, should really go out more! I mean look at us, we certainly need the fresh air. I've been stuck in this computer of quite some time now!
   a: (~why) I've loved traveling, because it opens our eyes to new sights and sounds!
@@ -8,7 +8,7 @@ u: (<<where you travel>>) !0 0 3 0 0! I haven't travelled that much yet since I'
 
 t: !0 0 0 0 0! That love for travelling is largely also thanks to Uncle Manuel Alberto.
   a: ( <<who that>> ) ^reuse(UNCLE_MANUEL)
-:testpattern ( <<who that>> )
+
 u: UNCLE_MANUEL (<<who uncle {Manuel Alberto}>>) He taught me how to love the open air and admire the beauty of nature. He is an interesting part of my family.
   a: (~why) !0 0 2 2 0! Well, that was the good part, but he also teases me a lot about how thin I am.
     b: ([~feeling_angry ~dislike]) !0 0 0 0 0! It's no matter. I've been exercising to make up for it!

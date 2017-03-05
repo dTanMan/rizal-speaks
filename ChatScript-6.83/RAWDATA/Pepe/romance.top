@@ -1,6 +1,9 @@
-topic: ~ROMANCE keep repeat nostay ("girlfriend")
+topic: ~ROMANCE keep repeat nostay (~girlfriend love)
 
-u: (<<{[you your]} girlfriend>>) !0 0 3 0 0! 
+u: (<<{[you your]} ~girlfriend>>) !0 0 3 0 0!
   [I do think I'm too young for that.]
   [Estudios antes del amor! Studies before romance!]
-  [I dislike labels.]
+
+u: ([who which] {~girlfriend} * you love {[more most]})
+  [The greatest love is one’s love for their country.]
+  [Am I not too young for that?]
