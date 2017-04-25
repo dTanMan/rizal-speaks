@@ -1,75 +1,60 @@
 USERS/topic_andre_pepe.txt
-jul2116 Nov20'16-22:34:38 Dec20'16-16:46:09 1479662806-2.0.0.13.9.0 |
-1 25 ~parents 5Nb ggYcC  DY 0 30 30 0 # start, input#, rejoindertopic,rejoinderid (a:  ( << what [ she it that ] like >> ) ^respond ( ANGRY_MOM ) ),checksum
-~introductions ~home ~parents #pending
-~home + 1 TEiToIs*Ok3 ma 7 0 0 
-~introductions + 2 b=Lwy diaa 5 0 0 
-~parents + 4 ggYcC pceopaaa p 0 0 
+jul2116 Nov20'16-22:34:38 Apr26'17-01:35:28 1479662806-2.0.0.13.9.0 |
+1 18 ~self ^Mb fd8j6  DY 0 12 12 0 # start, input#, rejoindertopic,rejoinderid (a:  ( ~yes ) !0 0 3 0 0! Then you are just like me! Did you know I love sculpting, painting, a...   ),checksum
+~introductions ~home ~self #pending
+~home + 2 2oX6nIs*Ok3 poaa d 0 0 
+~introductions + 2 b=Lwy diaa 3 0 0 
+~self + 2 fd8j6 kjaa i 0 0 
 #`end topics
-$cs_randindex=265
-$cs_bot=Pepe
-$cs_login=Andre
-$cs_token=163583
-$cs_control_main=~control
-$userprompt=andre: >
-$botprompt=Pepe: 
 $first_time=true
+$botprompt=Pepe: 
+$userprompt=andre: >
+$cs_control_main=~control
+$cs_token=163583
+$cs_login=Andre
+$cs_bot=Pepe
+$cs_randindex=265
 #`end variables
 0 #set flags
 #`end fact sets
 #`end user facts 0
-#context ~parents 23 MOM_GAMBIT ~honest_response 21 GRUNT 
- hi pepe
- no
- i'm not andre, hahaha
- great!
- what now?
- yes
- no waze?
+#context 
+ mmm
+ hi
+ noy
+ as
+ cool
+ wow
  fuck you
- your mom is a penis
- i gave a bj
- BJ
- BJ
- BJ
- BJ
- BJ
- fuck
- dick
+ fuck you
+ fuck you
  dick
  sex
- potato
- sex
- sex
- sex
- dick
- andre tan
+ what's a parce-nobis
+ okay
+ nice
+ uh huh
+ who's he
+ yes
+ what's that
 #`end user
  !0 0 0 0 0! Hello!
  Have you talked to me before?
- Well, it's nice to meet you, andre!
  How are you today?
- That's great to hear!
  So are you here to chat?
- !0 0 3 0 0! Great! You know....
  We had a big, big house! Too bad I can't take you there right now.
  !0 0 4 0 0! Where do i begin... the Mercado House was two floors of stone and hardwood! I think the walls were made of ipil, and the floor was of narra and red tiles.
+ !0 0 3 0 0! We had an azotea with potted plants, and we had big capiz windows where you can see everything!
+ !0 0 3 2 0! What does that word mean? Yuck! Bad words!
  !0 0 3 2 0! I might be too young to understand at the moment.
- I love my parents.
- !0 0 0 0 0! My papa is awesome.
- !0 0 0 0 0! My papa is very smart, he knows a lot of stuff! He's also fluent in both Spanish and Latin.
- !0 0 0 0 0! They call him Lolo Tanda and Lolo Kikoy.
- He wakes up really early in the morning, earlier than everyone else. He usually rushes to the farms after a hasty breakfast! He sometimes takes me and my siblings to the farm as well to see and learn
- !0 0 0 0 0! He works really hard! Of course, he has a siesta and a merienda of tea and lojua. But in harvest season, he sometimes won't even come home for weeks!
- OK.
- !0 0 3 2 0! Whatever that means, it sounds horrible!
- !0 0 0 0 0! Papa always looks good and smells good, though. He did say: \"before cleaning your body, clean your soul first!\"
- Right.
- !0 0 0 0 0! He's also very thrifty - not \"kuripot,\" but nothing goes to waste with him! We'd turn clothes into curtains, leftovers into new \"ulam\", and even make candies out of fruit peelings!
- !0 0 0 0 0! I also always love playing tante with him.
- Cool.
- I love my Papa!
- !0 0 0 0 0! My Mama is awesome.
- Mama is just as good at money as my Papa! I think she's the only woman in town who can do business! And she trained us to be just as practical!
- !0 0 0 0 0! She believed everyone should be useful and cooperative. She always gave everyone chores, and she'll get really mad if we don't follow!
+ !0 0 3 2 0! What does that word mean? Yuck! Bad words!
+ !0 0 4 0 0! We also had a big orchard of different trees!
+ !0 0 3 0 0! Our house also had a big basement.
+ !0 0 3 0 0! We also have a stable for ponies!
+ !0 0 0 0 0! My favourite part is that it's not just a big big house, it was also a big big home.
+ !0 0 0 0 0! I believe us, youth, should really go out more! I mean look at us, we certainly need the fresh air. I've been stuck in this computer of quite some time now!
+ !0 0 0 0 0! That love for travelling is largely also thanks to Uncle Manuel Alberto.
+ Are you afraid of ghosts?
+ !0 0 3 2 0! Me too! That's why I always finish my meals, so that the parce-nobis won't eat me. That's what Ate Aquilina tells me.
+ Do you love art?
 #`end chatbot

@@ -13560,3 +13560,35 @@ Respond: user:andre bot:pepe ip:127.0.0.1 (~parents) 22  sex ==> I love my Papa!
 Respond: user:andre bot:pepe ip:127.0.0.1 (~parents) 23  sex ==> !0 0 0 0 0! My Mama is awesome.  When:Dec20'16-16:46:01 Why:~parents.17.0=MOM_GAMBIT.~control.9.0   F:0 
 Respond: user:andre bot:pepe ip:127.0.0.1 (~parents) 24  dick ==> Mama is just as good at money as my Papa! I think she's the only woman in town who can do business! And she trained us to be just as practical!  When:Dec20'16-16:46:03 Why:~parents.18.0.~control.9.0   F:16 
 Respond: user:andre bot:pepe ip:127.0.0.1 (~parents) 25  andre tan ==> !0 0 0 0 0! She believed everyone should be useful and cooperative. She always gave everyone chores, and she'll get really mad if we don't follow!  When:Dec20'16-16:46:09 Why:~parents.19.0.~control.9.0   F:0 
+Command: :build Pepe
+.User data file CONTEXT inconsistent
+.User data file inconsistent
+Command: :reset
+Start: user:andre bot:pepe ip:127.0.0.1 rand:266 (~introductions) 0 ==> !0 0 0 0 0! Hello!  When:Apr26'17-01:33:51 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Apr26'17-01:33:45 0:Nov20'16-22:34:38 F:1479662806-2.0.0.13.9.0 P:Dec20'16-16:46:09 Why:~introductions.1.0.~control.0.0 
+Respond: user:andre bot:pepe ip:127.0.0.1 (~introductions) 1  hi ==> Have you talked to me before?  When:Apr26'17-01:33:52 Why:~introductions.2.0.~control.9.0   F:47 
+Respond: user:andre bot:pepe ip:127.0.0.1 (~introductions) 2  Yes. Long time no see, old friend! ==> Nice to see you again, andre!  When:Apr26'17-01:34:02 Why:~introductions.2.2   F:78 
+Respond: user:andre bot:pepe ip:127.0.0.1 (~introductions) 3  how's it going ==> !0 0 0 0 0! I'm good!  When:Apr26'17-01:34:08 Why:~introductions.5.0.~control.9.0   F:0 
+Respond: user:andre bot:pepe ip:127.0.0.1 (~introductions) 4  nice ==> How are you doing?  When:Apr26'17-01:34:11 Why:~introductions.3.0.~control.9.0   F:0 
+Respond: user:andre bot:pepe ip:127.0.0.1 (~introductions) 5  i'm okay ==> That's great to hear!  When:Apr26'17-01:34:14 Why:~introductions.3.4   F:0 
+Respond: user:andre bot:pepe ip:127.0.0.1 (~introductions) 6  thanks ==> So are you here to chat?  When:Apr26'17-01:34:19 Why:~introductions.4.0.~control.9.0   F:0 
+Respond: user:andre bot:pepe ip:127.0.0.1 (~home) 7  yup! ==> !0 0 3 0 0! Great! You know....`We had a big, big house! Too bad I can't take you there right now.  When:Apr26'17-01:34:21 Why:~introductions.4.2 ~home.0.0=HOUSE.~introductions.4.2   F:0 
+Command: :reset
+Start: user:andre bot:pepe ip:127.0.0.1 rand:266 (~introductions) 0 ==> !0 0 0 0 0! Hello!  When:Apr26'17-01:34:44 Version:6.83 Build0:Sep11'16-15:31:14 Build1:Apr26'17-01:33:45 0:Nov20'16-22:34:38 F:1479662806-2.0.0.13.9.0 P:Apr26'17-01:34:21 Why:~introductions.1.0.~control.0.0 
+Respond: user:andre bot:pepe ip:127.0.0.1 (~introductions) 1  mmm ==> Have you talked to me before?  When:Apr26'17-01:34:45 Why:~introductions.2.0.~control.9.0   F:0 
+Respond: user:andre bot:pepe ip:127.0.0.1 (~introductions) 2  hi ==> How are you today?  When:Apr26'17-01:34:46 Why:~introductions.3.0.~control.9.0   F:0 
+Respond: user:andre bot:pepe ip:127.0.0.1 (~introductions) 3  noy ==> So are you here to chat?  When:Apr26'17-01:34:47 Why:~introductions.4.0.~control.9.0   F:16 
+Respond: user:andre bot:pepe ip:127.0.0.1 (~home) 4  as ==> We had a big, big house! Too bad I can't take you there right now.  When:Apr26'17-01:34:48 Why:~home.0.0=HOUSE.~control.9.0   F:16 
+Respond: user:andre bot:pepe ip:127.0.0.1 (~home) 5  cool ==> !0 0 4 0 0! Where do i begin... the Mercado House was two floors of stone and hardwood! I think the walls were made of ipil, and the floor was of narra and red tiles.  When:Apr26'17-01:34:52 Why:~home.1.0.~control.9.0   F:15 
+Respond: user:andre bot:pepe ip:127.0.0.1 (~home) 6  wow ==> !0 0 3 0 0! We had an azotea with potted plants, and we had big capiz windows where you can see everything!  When:Apr26'17-01:34:54 Why:~home.2.0.~control.9.0   F:15 
+Respond: user:andre bot:pepe ip:127.0.0.1 (~home) 7  fuck you ==> !0 0 3 2 0! What does that word mean? Yuck! Bad words!  When:Apr26'17-01:34:56 Why:~failsafes.0.0=SWEARWORDS.~control.9.0   F:0 
+Respond: user:andre bot:pepe ip:127.0.0.1 (~home) 8  fuck you ==> !0 0 3 2 0! I might be too young to understand at the moment.  When:Apr26'17-01:35:04 Why:~failsafes.0.0=SWEARWORDS.~control.9.0   F:0 
+Respond: user:andre bot:pepe ip:127.0.0.1 (~home) 9  fuck you ==> !0 0 3 2 0! What does that word mean? Yuck! Bad words!  When:Apr26'17-01:35:05 Why:~failsafes.0.0=SWEARWORDS.~control.9.0   F:32 
+Respond: user:andre bot:pepe ip:127.0.0.1 (~home) 10  dick ==> !0 0 4 0 0! We also had a big orchard of different trees!  When:Apr26'17-01:35:07 Why:~home.3.0.~control.9.0   F:15 
+Respond: user:andre bot:pepe ip:127.0.0.1 (~home) 11  sex ==> !0 0 3 0 0! Our house also had a big basement.  When:Apr26'17-01:35:10 Why:~home.4.0.~control.9.0   F:16 
+Respond: user:andre bot:pepe ip:127.0.0.1 (~home) 12  what's a parce-nobis ==> !0 0 3 0 0! We also have a stable for ponies!  When:Apr26'17-01:35:14 Why:~home.5.0.~control.9.0   F:16 
+Respond: user:andre bot:pepe ip:127.0.0.1 (~home) 13  okay ==> !0 0 0 0 0! My favourite part is that it's not just a big big house, it was also a big big home.  When:Apr26'17-01:35:17 Why:~home.6.0.~control.9.0   F:0 
+Respond: user:andre bot:pepe ip:127.0.0.1 (~self) 14  nice ==> !0 0 0 0 0! I believe us, youth, should really go out more! I mean look at us, we certainly need the fresh air. I've been stuck in this computer of quite some time now!  When:Apr26'17-01:35:19 Why:~self.0.0.~control.9.0   F:16 
+Respond: user:andre bot:pepe ip:127.0.0.1 (~self) 15  uh huh ==> !0 0 0 0 0! That love for travelling is largely also thanks to Uncle Manuel Alberto.  When:Apr26'17-01:35:21 Why:~self.2.0.~control.9.0   F:0 
+Respond: user:andre bot:pepe ip:127.0.0.1 (~self) 16  who's he ==> Are you afraid of ghosts?  When:Apr26'17-01:35:23 Why:~self.4.0.~control.9.0   F:31 
+Respond: user:andre bot:pepe ip:127.0.0.1 (~self) 17  yes ==> !0 0 3 2 0! Me too! That's why I always finish my meals, so that the parce-nobis won't eat me. That's what Ate Aquilina tells me.  When:Apr26'17-01:35:25 Why:~self.4.1.~control.9.0   F:0 
+Respond: user:andre bot:pepe ip:127.0.0.1 (~self) 18  what's that ==> Do you love art?  When:Apr26'17-01:35:28 Why:~self.7.0.~control.9.0   F:16 

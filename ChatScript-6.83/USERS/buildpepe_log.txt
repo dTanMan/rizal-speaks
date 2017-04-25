@@ -17,19 +17,18 @@ Reading concept ~modern_politicians
 ----Reading file home.top
 Reading topic ~home
 *** Warning- line 9 of home.top: azotea is not a known word. Is it misspelled?
+*** Warning- line 31 of home.top: Keyword Laguna should not be uppercase - did prior rule fail to close
 
 ----Reading file introductions.top
 Reading topic ~introductions
 Reading concept ~doing_bad
 Reading concept ~doing_good
 
-----Reading file keywordless.top
-Reading topic ~keywordless
-
 ----Reading file parents.top
 Reading topic ~parents
 *** Warning- line 20 of parents.top: lojua is not a known word. Is it misspelled?
-*** Warning- line 29 of parents.top: tante is not a known word. Is it misspelled?
+*** Warning- line 25 of parents.top: kuripot is not a known word. Is it misspelled?
+*** Warning- line 30 of parents.top: tante is not a known word. Is it misspelled?
 
 ----Reading file pop.top
 Reading topic ~pop_culture
@@ -53,62 +52,21 @@ Reading topic ~control
 Reading topic ~xpostprocess
 
 <<end folder RAWDATA/Pepe
-
->>Reading folder RAWDATA/QUIBBLE/
-
-----Reading file eliza_because.top
-Reading topic ~quibble_because
-
-----Reading file eliza_can.top
-Reading topic ~quibble_will
-Reading topic ~quibble_can
-
-----Reading file eliza_do.top
-Reading topic ~quibble_do
-
-----Reading file eliza_how.top
-Reading topic ~quibble_howmuch
-Reading topic ~quibble_how
-
-----Reading file eliza_misc.top
-Reading topic ~quibble_misc
-*** Warning- line 400 of eliza_misc.top: shoulds is not a known word. Is it misspelled?
-
-----Reading file eliza_not.top
-Reading topic ~quibble_not
-
-----Reading file eliza_or.top
-Reading topic ~quibble_or
-
-----Reading file eliza_what.top
-Reading topic ~quibble_what
-
-----Reading file eliza_when.top
-Reading topic ~quibble_when
-
-----Reading file eliza_where.top
-Reading topic ~quibble_where
-
-----Reading file eliza_who.top
-Reading topic ~quibble_who
-
-----Reading file eliza_why.top
-Reading topic ~quibble_why
-
-----Reading file honest.top
-Reading topic ~intent
-Reading topic ~honest_response
-
-----Reading file quibble.top
-Reading topic ~quibble_all
-
-<<end folder RAWDATA/QUIBBLE
-*** Warning-  Undefined set or topic ~death line 14 in failsafes.top
+*** Warning- line 0 of QUIBBLE: Missing file RAWDATA/Pepe/QUIBBLE
+*** Warning-  Undefined set or topic ~death line 1 in failsafes.top
+*** Warning-  Undefined set or topic ~quibble_all line 71 in simplecontrol.top
 
 WARNING SUMMARY: 
-  line 2 of : Undefined set or topic ~death line 14 in failsafes.top
+  line 31 of home.top: Keyword Laguna should not be uppercase - did prior rule fail to close
 
-0 function warnings, 6 spelling warnings, 0 case warnings, 2 substitution warnings,  and 1 more serious warnings
+  line 0 of QUIBBLE: Missing file RAWDATA/Pepe/QUIBBLE
+
+  line 2 of : Undefined set or topic ~death line 1 in failsafes.top
+
+  line 7 of : Undefined set or topic ~quibble_all line 71 in simplecontrol.top
+
+1 topic files were missing.
+0 function warnings, 6 spelling warnings, 0 case warnings, 2 substitution warnings,  and 4 more serious warnings
     
 
 Finished compile

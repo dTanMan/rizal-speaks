@@ -155,4 +155,7 @@ No such bot  andre -  -  status: defaultbot word not foundBUG in home.top at 3: 
 Expecting responder for topic ~home, got ^poptopicBUG in topic_andre_anonymous.txt at 0: ^anonymous BUG: Sun Nov 20 19:27:52 2016: input:0 Sun Nov 20 19:27:52 2016 No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence: okay
 No such bot  andre -  -  status: defaultbot word not foundBUG in parents.top at 44: if(^available(~CHILDHOOD)) 
 IF-13 body must start with { instead of ^gambit  -- saw pattern if(^available(~CHILDHOOD))BUG in topic_andre_anonymous.txt at 0: ^anonymous BUG: Mon Nov 21 01:38:23 2016: input:0 Mon Nov 21 01:38:23 2016 No such bot  andre -  -  status: defaultbot word not found caller:andre callee: at  in sentence:  
-No such bot  andre -  -  status: defaultbot word not found
+No such bot  andre -  -  status: defaultbot word not found.User data file CONTEXT inconsistent
+BugDepth 1: ReadUserData - 
+.User data file inconsistent
+BugDepth 1: ReadUserData - 

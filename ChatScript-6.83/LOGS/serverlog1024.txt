@@ -2032,3 +2032,105 @@ Free 79MB: dict 779,264 hash 922 fact 583,918 text 55,803KB
 ======== Began server 6.83 compiled Sep 11 2016 16:00:15 on host 0.0.0.0 port 1024 at Sun Mar 05 22:34:33 2017 serverlog:1 userlog: 1
 Server ready - logfile:LOGS/serverlog1024.txt serverLog:1 userLog:1
 
+Server ChatScript Release Version 6.83  32 bit Windows compiled Sep 11 2016 16:00:15 host=0.0.0.0
+Params:   dict:1048575 fact:800000 text:70000kb hash:50000 
+          buffer:22x80kb cache:1x5000kb userfacts:100
+Build0:  dict=67737  fact=130332  stext=1145728 Sep11'16-15:31:14 0
+Build1:  dict=199  fact=41  stext=227324 Dec20'16-16:44:00 Pepe
+Used 51MB: dict 269,311 (21544kb) hashdepth 18/1 fact 216,082 (8643kb) text 14196kb
+           buffer (1760kb) cache (5000kb) POS: 918 (29kb)
+Free 79MB: dict 779,264 hash 922 fact 583,918 text 55,803KB 
+
+    *** Server WIDE OPEN to :command use.
+    Postgres enabled.
+    Mongo enabled.
+
+
+======== Began server 6.83 compiled Sep 11 2016 16:00:15 on host 0.0.0.0 port 1024 at Wed Apr 26 01:14:37 2017 serverlog:1 userlog: 1
+Server ready - logfile:LOGS/serverlog1024.txt serverLog:1 userLog:1
+
+Server ChatScript Release Version 6.83  32 bit Windows compiled Sep 11 2016 16:00:15 host=0.0.0.0
+Params:   dict:1048575 fact:800000 text:70000kb hash:50000 
+          buffer:22x80kb cache:1x5000kb userfacts:100
+Build0:  dict=67737  fact=130332  stext=1145728 Sep11'16-15:31:14 0
+Build1:  dict=199  fact=41  stext=227324 Dec20'16-16:44:00 Pepe
+Used 51MB: dict 269,311 (21544kb) hashdepth 18/1 fact 216,082 (8643kb) text 14196kb
+           buffer (1760kb) cache (5000kb) POS: 918 (29kb)
+Free 79MB: dict 779,264 hash 922 fact 583,918 text 55,803KB 
+
+    *** Server WIDE OPEN to :command use.
+    Postgres enabled.
+    Mongo enabled.
+
+
+======== Began server 6.83 compiled Sep 11 2016 16:00:15 on host 0.0.0.0 port 1024 at Wed Apr 26 01:33:32 2017 serverlog:1 userlog: 1
+Server ready - logfile:LOGS/serverlog1024.txt serverLog:1 userLog:1
+
+ServerPre: Andre (Pepe) :build Pepe
+Server ChatScript Release Version 6.83  32 bit Windows compiled Sep 11 2016 16:00:15 host=0.0.0.0
+Params:   dict:1048575 fact:800000 text:70000kb hash:50000 
+          buffer:22x80kb cache:1x5000kb userfacts:100
+Build0:  dict=67737  fact=130332  stext=1145728 Sep11'16-15:31:14 0
+Build1:  dict=42  fact=50  stext=22012 Apr26'17-01:33:45 Pepe
+Used 50MB: dict 269,154 (21532kb) hashdepth 18/1 fact 216,091 (8643kb) text 13991kb
+           buffer (1760kb) cache (5000kb) POS: 918 (29kb)
+Free 79MB: dict 779,421 hash 922 fact 583,909 text 56,008KB 
+
+    *** Server WIDE OPEN to :command use.
+    Postgres enabled.
+    Mongo enabled.
+Respond: user:Andre bot:Pepe ip:127.0.0.1 () 0 :build Pepe  ==> ChatScript Version 6.83  compiled Sep 11 2016 16:00:15    WARNING SUMMARY:     line 31 of home.top: Keyword Laguna should not be uppercase - did prior rule fail to close      line 0 of QUIBBLE: Missing file RAWDATA/Pepe/QUIBBLE      line 2 of : Undefined set or topic ~death line 1 in failsafes.top      line 7 of : Undefined set or topic ~quibble_all line 71 in simplecontrol.top    1 topic files were missing.  0 function warnings, 6 spelling warnings, 0 case warnings, 2 substitution warnings,  and 4 more serious warnings          Finished compile    Server ChatScript Release Version 6.83  32 bit Windows compiled Sep 11 2016 16:00:15 host=0.0.0.0  Params:   dict:1048575 fact:800000 text:70000kb hash:50000             buffer:22x80kb cache:1x5000kb userfacts:100  Build0:  dict=67737  fact=130332  stext=1145728 Sep11'16-15:31:14 0  Build1:  dict=42  fact=50  stext=22012 Apr26'17-01:33:45 Pepe  Used 50MB: dict 269,154 (21532kb) hashdepth 18/1 fact 216,091 (8643kb) text 13991kb             buffer (1760kb) cache (5000kb) POS: 918 (29kb)  Free 79MB: dict 779,421 hash 922 fact 583,909 text 56,008KB         *** Server WIDE OPEN to :command use.      Postgres enabled.      Mongo enabled.    When:Apr26 01:33:48 3625ms 
+ServerPre: Andre (Pepe) :reset
+Respond: user:Andre bot:Pepe ip:127.0.0.1 () 0 :reset  ==> !0 0 0 0 0! Hello!  When:Apr26 01:33:51 78ms 
+ServerPre: Andre (Pepe) hi
+Respond: user:Andre bot:Pepe ip:127.0.0.1 () 1 hi  ==> Have you talked to me before?  When:Apr26 01:33:52 78ms 
+ServerPre: Andre (Pepe) Yes. Long time no see, old friend!
+Respond: user:Andre bot:Pepe ip:127.0.0.1 () 2 Yes. Long time no see, old friend!  ==> Nice to see you again, andre!  When:Apr26 01:34:02 78ms 
+ServerPre: Andre (Pepe) how's it going
+Respond: user:Andre bot:Pepe ip:127.0.0.1 () 3 how's it going  ==> !0 0 0 0 0! I'm good!  When:Apr26 01:34:08 16ms 
+ServerPre: Andre (Pepe) nice
+Respond: user:Andre bot:Pepe ip:127.0.0.1 () 4 nice  ==> How are you doing?  When:Apr26 01:34:11 32ms 
+ServerPre: Andre (Pepe) i'm okay
+Respond: user:Andre bot:Pepe ip:127.0.0.1 () 5 i'm okay  ==> That's great to hear!  When:Apr26 01:34:14 16ms 
+ServerPre: Andre (Pepe) thanks
+Respond: user:Andre bot:Pepe ip:127.0.0.1 () 6 thanks  ==> So are you here to chat?  When:Apr26 01:34:19 16ms 
+ServerPre: Andre (Pepe) yup!
+Respond: user:Andre bot:Pepe ip:127.0.0.1 () 7 yup!  ==> !0 0 3 0 0! Great! You know.... We had a big, big house! Too bad I can't take you there right now.  When:Apr26 01:34:21 31ms 
+ServerPre: Andre (Pepe) :reset
+Respond: user:Andre bot:Pepe ip:127.0.0.1 () 0 :reset  ==> !0 0 0 0 0! Hello!  When:Apr26 01:34:44 31ms 
+ServerPre: Andre (Pepe) mmm
+Respond: user:Andre bot:Pepe ip:127.0.0.1 () 1 mmm  ==> Have you talked to me before?  When:Apr26 01:34:45 31ms 
+ServerPre: Andre (Pepe) hi
+Respond: user:Andre bot:Pepe ip:127.0.0.1 () 2 hi  ==> How are you today?  When:Apr26 01:34:46 31ms 
+ServerPre: Andre (Pepe) noy
+Respond: user:Andre bot:Pepe ip:127.0.0.1 () 3 noy  ==> So are you here to chat?  When:Apr26 01:34:47 16ms 
+ServerPre: Andre (Pepe) as
+Respond: user:Andre bot:Pepe ip:127.0.0.1 () 4 as  ==> We had a big, big house! Too bad I can't take you there right now.  When:Apr26 01:34:48 31ms 
+ServerPre: Andre (Pepe) cool
+Respond: user:Andre bot:Pepe ip:127.0.0.1 () 5 cool  ==> !0 0 4 0 0! Where do i begin... the Mercado House was two floors of stone and hardwood! I think the walls were made of ipil, and the floor was of narra and red tiles.  When:Apr26 01:34:52 31ms 
+ServerPre: Andre (Pepe) wow
+Respond: user:Andre bot:Pepe ip:127.0.0.1 () 6 wow  ==> !0 0 3 0 0! We had an azotea with potted plants, and we had big capiz windows where you can see everything!  When:Apr26 01:34:54 47ms 
+ServerPre: Andre (Pepe) fuck you
+Respond: user:Andre bot:Pepe ip:127.0.0.1 () 7 fuck you  ==> !0 0 3 2 0! What does that word mean? Yuck! Bad words!  When:Apr26 01:34:56 16ms 
+ServerPre: Andre (Pepe) fuck you
+Respond: user:Andre bot:Pepe ip:127.0.0.1 () 8 fuck you  ==> !0 0 3 2 0! I might be too young to understand at the moment.  When:Apr26 01:35:04 16ms 
+ServerPre: Andre (Pepe) fuck you
+Respond: user:Andre bot:Pepe ip:127.0.0.1 () 9 fuck you  ==> !0 0 3 2 0! What does that word mean? Yuck! Bad words!  When:Apr26 01:35:05 32ms 
+ServerPre: Andre (Pepe) dick
+Respond: user:Andre bot:Pepe ip:127.0.0.1 () 10 dick  ==> !0 0 4 0 0! We also had a big orchard of different trees!  When:Apr26 01:35:07 453ms 
+ServerPre: Andre (Pepe) sex
+Respond: user:Andre bot:Pepe ip:127.0.0.1 () 11 sex  ==> !0 0 3 0 0! Our house also had a big basement.  When:Apr26 01:35:10 16ms 
+ServerPre: Andre (Pepe) what's a parce-nobis
+Respond: user:Andre bot:Pepe ip:127.0.0.1 () 12 what's a parce-nobis  ==> !0 0 3 0 0! We also have a stable for ponies!  When:Apr26 01:35:14 32ms 
+ServerPre: Andre (Pepe) okay
+Respond: user:Andre bot:Pepe ip:127.0.0.1 () 13 okay  ==> !0 0 0 0 0! My favourite part is that it's not just a big big house, it was also a big big home.  When:Apr26 01:35:17 15ms 
+ServerPre: Andre (Pepe) nice
+Respond: user:Andre bot:Pepe ip:127.0.0.1 () 14 nice  ==> !0 0 0 0 0! I believe us, youth, should really go out more! I mean look at us, we certainly need the fresh air. I've been stuck in this computer of quite some time now!  When:Apr26 01:35:19 16ms 
+ServerPre: Andre (Pepe) uh huh
+Respond: user:Andre bot:Pepe ip:127.0.0.1 () 15 uh huh  ==> !0 0 0 0 0! That love for travelling is largely also thanks to Uncle Manuel Alberto.  When:Apr26 01:35:21 31ms 
+ServerPre: Andre (Pepe) who's he
+Respond: user:Andre bot:Pepe ip:127.0.0.1 () 16 who's he  ==> Are you afraid of ghosts?  When:Apr26 01:35:23 46ms 
+ServerPre: Andre (Pepe) yes
+Respond: user:Andre bot:Pepe ip:127.0.0.1 () 17 yes  ==> !0 0 3 2 0! Me too! That's why I always finish my meals, so that the parce-nobis won't eat me. That's what Ate Aquilina tells me.  When:Apr26 01:35:25 15ms 
+ServerPre: Andre (Pepe) what's that
+Respond: user:Andre bot:Pepe ip:127.0.0.1 () 18 what's that  ==> Do you love art?  When:Apr26 01:35:28 32ms 
